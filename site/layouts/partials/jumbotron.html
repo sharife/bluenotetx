@@ -1,18 +1,23 @@
-<div class="pv5 pv6-l ph3 bg-center cover" style="background-image: url('{{.imageUrl}}')">
-  <div class="mw7 center ph3">
-    <div class="db mb3">
-      <div class="mw7 relative bg-fix-primary mb3">
-        <h1 class="f2 f1-l b di lh-title mb3 white mw6 bg-primary">
-          {{.title}}
-        </h1>
+<div class="cover w-100 relative z-0" style="background-image: url({{.bg}});top:-102px;">
+  <div>
+    <div class="flex-l mhn2-l">
+      <div class="w-50-l ph2-l">
+        <div class="mw6 center ph3 pl5-ns mt4 pv4">
+          <img src="/img/line-h.svg" alt="" class="pv3 mt4" style="min-width:50vw;">
+          <p><h1 class="f2 f1-l b di lh-title mb3 mw6 primary">
+            {{.title}}
+          </h1></p>
+          {{ if .subtitle }}
+          <p class="f4 di lh-title mb3 mw6 black">
+            {{.subtitle}}
+          </p>
+          {{ end }}
+        </div>
       </div>
-      <div class="mw7 relative bg-fix-primary">
-        {{ if .subtitle }}
-        <p class="b f4 di lh-title mb3 white mw6 bg-primary">
-          {{.subtitle}}
-        </p>
-        {{ end }}
+      <div class="w-50-l pl2-l">
+        <img src="{{.imageUrl}}" alt="" class="mb3 w-100">
       </div>
     </div>
   </div>
 </div>
+

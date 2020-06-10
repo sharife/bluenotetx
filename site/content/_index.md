@@ -1,20 +1,24 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: "Helping Patients Live Better"
+image: /img/home-hero.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+    text: "Blue Note Therapeutics is a prescription digital therapeutics company singularly dedicated to helping patients live better. Blue Note is merging deep scientific and clinical expertise with digital and gaming innovation to transform care for seriously ill patients."
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
-products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+    heading: "Free COVID Cancer Care Program Available"
+    image: /img/app-devices.png
+    bg: /img/app-bg.svg
+    cta: "Try it here"
+    link: https://covidcancercare.com
 values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+    heading: We are Blue Note
+    image: /img/about-hero.jpg
+    text: Working closely with leading medical researchers and patient advocacy organizations, Blue Note is creating clinically-validated, FDA-approvable prescription-only digital devices to treat the burden of illness. Our team aims to make therapy available to any patient, at any time, on patients’ own mobile devices.
+    text2: Patients and clinicians are our partners in developing programs that are highly effective and engaging so that it is easier for patients to stick with them. Prescription digital therapeutics are scientifically validated and FDA-cleared digital interventions prescribed by physicians to treat medical conditions as first-line or adjuvant therapies.
+    logo1: /img/logo-jazz.png
+    logo2: /img/logo-dta.png
+contact:
+    heading: Contact Us
+    bg: "/img/contact-bg.svg"
+    text: Do you have comments or inquiries about our products in development, partnering opportunities or career opportunities? Write to us here.
 ---
 

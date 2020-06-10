@@ -1,13 +1,34 @@
 {{ define "main" }}
 
-{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
+{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.blurb.text) }}
 
-{{ partial "short-text" .Params.blurb}}
+{{ partial "text-and-image" (dict "heading" .Params.intro.heading "text" .Params.intro.text "buttonText" .Params.intro.cta "buttonLink" .Params.intro.link "imageUrl" .Params.intro.image "bg" .Params.intro.bg) }}
 
-{{ partial "2-up" .Params }}
+<a name="about">&nbsp;</a>
+{{ partial "text-and-image-reverse" (dict "heading" .Params.values.heading "text" .Params.values.text "text2" .Params.values.text2 "imageUrl" .Params.values.image "logo1" .Params.values.logo1 "logo2" .Params.values.logo2) }}
 
-{{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text "buttonText" "Read more" "buttonLink" "/values") }}
+<!-- {{ partial "contact-form" (dict "heading" .Params.contact.heading "text" .Params.contact.text "bg" .Params.contact.bg) }} -->
 
-{{ partial "blog" . }}
+<div class="pv3 cover mt6 bg-center" style="background-image: url({{.Params.contact.bg}});">
+  <div class="ph3 mw7 center">
+  	<a name="contact">&nbsp;</a>
+    <div class="flex-l mhn2-l">
+      <div class="w-50-l ph2-l">
+        <h2 class="f3 primary b lh-title mb2 pt4">{{.Params.contact.heading}}</h2>
+
+        <p class="cms primary f6">{{.Params.contact.text | markdownify}}</p>
+
+        
+        {{ partial "contact-form" . }}
+
+
+        <div class="w-70-l ph2-l">
+        	<img src="{{.Params.contact.imageUrl}}" alt="" class="mb3">
+      </div>
+    </div>
+  </div>
+</div>
+
+
 
 {{ end }}
