@@ -13,3 +13,20 @@
     box-shadow: inset 0 -4px 0 var(--primary);
   }
 }
+
+#b-logos, #m-nav {
+	display:none;
+}
+
+
+@media (--breakpoint-large) {
+	#m-logos {
+		display:none;
+	}
+	#b-logos {
+		display: inline;
+	}
+  #m-nav {
+    display: flex;
+  }
+}

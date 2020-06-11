@@ -1,17 +1,19 @@
-<div class="pv4 mt4">
+<div class="pv1 mt4">
 	<div class="ph3 mw7 center">
 
 		<div class="flex-l mhn2-l">
-			<div class="w30-l ph2-l">
+			<div class="w-50-l ph2-l">
 				<img src="{{.imageUrl}}" alt="" class="mb3">
+				<div id="b-logos">
 				{{ if .logo1}}
 					<p class="tc"><img src="{{.logo1}}" alt="" class="mb3 w-40"></p>
 				{{end}}
 				{{ if .logo2}}
 					<p class="tc"><img src="{{.logo2}}" alt="" class="mb3 w-40"></p>
 				{{end}}
+				</div>
 			</div>
-			<div class="w-70-l ph2-l mt6-l">
+			<div class="w-50-l ph2-l mt6-l">
 				<h2 class="f2 b lh-title mb2 primary">{{.heading}}</h2>
 
 				<p class="cms f6">{{.text | markdownify}}</p>
@@ -23,6 +25,15 @@
 				{{ if .buttonText}}
 					<a href="{{.buttonLink}}" class="btn raise">{{.buttonText}}</a>
 				{{end}}
+
+				<div id="m-logos">
+				{{ if .logo1}}
+					<p class="tc"><img src="{{.logo1}}" alt="" class="mb3 w-40"></p>
+				{{end}}
+				{{ if .logo2}}
+					<p class="tc"><img src="{{.logo2}}" alt="" class="mb3 w-40"></p>
+				{{end}}
+				</div>
 			</div>
 		</div>
 	</div>

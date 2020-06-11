@@ -1,6 +1,6 @@
 {{ define "main" }}
 
-{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.blurb.text) }}
+{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.blurb.text "buttonText" .Params.cta "buttonLink" .Params.link) }}
 
 {{ partial "text-and-image" (dict "heading" .Params.intro.heading "text" .Params.intro.text "buttonText" .Params.intro.cta "buttonLink" .Params.intro.link "imageUrl" .Params.intro.image "bg" .Params.intro.bg) }}
 
@@ -9,7 +9,7 @@
 
 <!-- {{ partial "contact-form" (dict "heading" .Params.contact.heading "text" .Params.contact.text "bg" .Params.contact.bg) }} -->
 
-<div class="pv3 cover mt6 bg-center" style="background-image: url({{.Params.contact.bg}});">
+<div class="pv1 cover mt6 bg-center" style="background-image: url({{.Params.contact.bg}});">
   <div class="ph3 mw7 center">
   	<a name="contact">&nbsp;</a>
     <div class="flex-l mhn2-l">

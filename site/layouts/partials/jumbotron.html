@@ -3,7 +3,7 @@
     <div class="flex-l mhn2-l">
       <div class="w-50-l ph2-l">
         <div class="mw6 center ph3 pl5-ns mt4 pv4">
-          <img src="/img/line-h.svg" alt="" class="pv3 mt4" style="min-width:50vw;">
+          <img src="/img/line-h.svg" alt="" class="pv3 mt4" style="min-width:60vw;">
           <p><h1 class="f2 f1-l b di lh-title mb3 mw6 primary">
             {{.title}}
           </h1></p>
@@ -12,6 +12,11 @@
             {{.subtitle}}
           </p>
           {{ end }}
+          {{ if .buttonText}}
+            <p>
+              <a href="#about" class="mt3 btn bg-primary white raise f6">{{.buttonText}}</a>
+            </p>
+          {{end}}
         </div>
       </div>
       <div class="w-50-l pl2-l">
