@@ -33,3 +33,19 @@
     top:-102px;
   }
 }
+
+
+.fullscreen-bg-text {
+    position: absolute;
+    top: 50%;
+    left: 25%;
+    width: auto;
+    height: auto;
+    min-width: 100%;
+    min-height: 50%;
+    opacity:1;
+    -webkit-transform: translate(-25%, -25%);
+       -moz-transform: translate(-25%, -25%);
+        -ms-transform: translate(-25%, -25%);
+        transform: translate(-25%, -25%);
+}
