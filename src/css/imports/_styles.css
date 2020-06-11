@@ -14,7 +14,7 @@
   }
 }
 
-#b-logos, #m-nav {
+#b-logos, #m-nav, #line-c, #line-h {
 	display:none;
 }
 
@@ -23,10 +23,13 @@
 	#m-logos {
 		display:none;
 	}
-	#b-logos {
+	#b-logos, #line-c, #line-h {
 		display: inline;
 	}
   #m-nav {
     display: flex;
+  }
+  #cover-bg {
+    top:-102px;
   }
 }
