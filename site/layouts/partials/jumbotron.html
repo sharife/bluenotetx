@@ -14,7 +14,7 @@
           {{ end }}
           {{ if .buttonText}}
             <p>
-              <a href="#about" class="mt3 btn bg-primary white raise f6">{{.buttonText}}</a>
+              <a href="{{ .currentURL }}#{{ .buttonLink }}" class="mt3 btn bg-primary white raise f6">{{.buttonText}}</a>
             </p>
           {{end}}
         </div>

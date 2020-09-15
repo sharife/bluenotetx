@@ -1,32 +1,14 @@
 {{ define "main" }}
 
-{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.blurb.text "buttonText" .Params.cta "buttonLink" .Params.link) }}
+{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.blurb.text "buttonText" .Params.cta "buttonLink" .Params.link "currentURL" .Permalink) }}
 
-{{ partial "text-and-image" (dict "heading" .Params.intro.heading "text" .Params.intro.text "buttonText" .Params.intro.cta "buttonLink" .Params.intro.link "imageUrl" .Params.intro.image "bg" .Params.intro.bg) }}
+{{ partial "text-and-image-reverse" (dict "heading" .Params.introA.heading "text" .Params.introA.text "buttonText" .Params.introA.cta "buttonLink" .Params.introA.link "imageUrl" .Params.introA.image "bg" .Params.introA.bg "logo" .Params.introA.logo) }}
 
-<a name="about">&nbsp;</a>
-{{ partial "text-and-image-reverse" (dict "heading" .Params.values.heading "text" .Params.values.text "text2" .Params.values.text2 "imageUrl" .Params.values.image "logo1" .Params.values.logo1 "logo2" .Params.values.logo2) }}
-
-
-<div class="pv1 cover mt6 bg-center" style="background-image: url({{.Params.contact.bg}});">
-  <div class="ph3 mw7 center">
-  	<a name="contact">&nbsp;</a>
-    <div class="flex-l mhn2-l">
-      <div class="w-50-l ph2-l">
-        <h2 class="f3 primary b lh-title mb2 pt4">{{.Params.contact.heading}}</h2>
-
-        <p class="cms primary f6">{{.Params.contact.text | markdownify}}</p>
-
-        
-        {{ partial "contact-form" . }}
+{{ partial "text-and-image" (dict "heading" .Params.introB.heading "text" .Params.introB.text "buttonText" .Params.introB.cta "buttonLink" .Params.introB.link "imageUrl" .Params.introB.image "bg" .Params.introB.bg) }}
 
 
-        <div class="w-70-l ph2-l">
-        	<img src="{{.Params.contact.imageUrl}}" alt="" class="mb3">
-      </div>
-    </div>
-  </div>
-</div>
+<a name="{{.Params.link}}">&nbsp;</a>
+{{ partial "text-and-image-reverse" (dict "heading" .Params.about.heading "text" .Params.about.text "buttonText" .Params.about.cta  "buttonLink" .Params.about.link "imageUrl" .Params.about.image) }}
 
 
 

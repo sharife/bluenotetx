@@ -1,4 +1,4 @@
-<nav class="overflow-x-scroll overflow-x-visible-ns flex justify-between items-center center relative mw8 w-100 z-999">
+<nav id="nav-main" class="overflow-x-scroll overflow-x-visible-ns flex justify-between items-center center relative mw8 w-100 z-999">
 
 	<!-- Logo -->
 	<a href="/" class="pa3 db mr4 h-100 w4 flex-none">
@@ -7,13 +7,47 @@
 
 	<!-- Primary Nav -->
 	<div class="flex" id="m-nav">
-		<!-- <div class="ph1"><a href="/science" class="pa3 no-underline db bg-highlight primary btn">Science</a></div>
+		<div class="ph1"><a href="/science" class="pa3 no-underline db bg-highlight primary btn raise">Science</a></div>
 
-		<div class="ph1"><a href="/posts" class="pa3 no-underline db bg-highlight primary btn">Blog</a></div> -->
+		<div class="ph1"><a href="/post" class="pa3 no-underline db bg-highlight primary btn raise">Blog</a></div>
 
-		<div class="ph1"><a href="#about" class="pa3 no-underline db bg-highlight primary btn">About</a></div>
+		<div class="ph1"><a href="/about" class="pa3 no-underline db bg-highlight primary btn raise">About Us</a></div>
 
-		<div class="ph1"><a href="#contact" class="pa3 no-underline db bg-highlight primary btn">Contact</a></div>
+		<div class="ph1"><a href="/contact" class="pa3 no-underline db bg-highlight primary btn raise">Contact</a></div>
 	</div>
 
 </nav>
+
+
+
+<nav id="nav-mobile" class="w-100 relative z-999 flex justify-between items-center mb3 bg-white" style="border-bottom: solid 2px var(--primary);">
+	
+	<div class="flex fr br1 pa1 ma3 bg-primary">
+		<a class="white b f4 ph2 no-underline" onclick="javascript:toggleMenu();">&#9776;</a>
+	</div>
+	<a href="/" class="pa3 db h-100 w4 flex">
+		<img src="/img/logo.svg" alt="Blue Note Therapeutics" class="br0 db mb0 w-100"/>
+	</a>
+</nav>
+
+<div id="mobile-menu" class="absolute fixed bg-primary z-max">
+	<ul class="pa3 w-100 white center tc b">
+		<li><a href="/"><img src="/img/logomark.svg" alt="Blue Note logo" class="pa3 br0 mb0 w-100 mw2"/></a></li>
+
+		<li><a href="/science" class="pa3 no-underline db">Science</a></li>
+
+		<li><a href="/post" class="pa3 no-underline db">Blog</a></li>
+		
+		<li><a href="/about" class="pa3 no-underline db">About Us</a></li>	
+
+		<li><a href="/contact" class="pa3 no-underline db">Contact</a></li>
+	</ul>
+	<hr />
+	<p class="pt3 f6 b white center tc w-100"><a onclick="javascript:toggleMenu();">[ EXIT ]</a></p>
+</div>
+
+<script type="text/javascript">
+	function toggleMenu (){
+		$('#mobile-menu').fadeToggle();
+	}
+</script>

@@ -1,26 +1,30 @@
 ---
-title: "Helping Patients Live Better"
-image: /img/home-hero.jpg
+title: "Helping Cancer Patients Live Better"
 cta: Learn more
-link: #about
+link: about
+image: /img/hero-test.svg
 blurb:
-    text: "Blue Note Therapeutics is a prescription digital therapeutics company singularly dedicated to helping patients live better. Blue Note is merging deep scientific and clinical expertise with digital and gaming innovation to transform care for seriously ill patients."
-intro:
+    text: "Blue Note merges deep scientific and clinical expertise in cancer-related stress with digital and gaming innovation to transform psycho-social care for cancer patients."
+introA:
+    heading: "Introducing a New Way to Live Better With Cancer"
+    image: /img/app-devices.png
+    logo: /img/logo-attune.svg
+    text: >-
+      **Attune**, the premiere therapeutic app from Blue Note, uses cognitive behavioral therapy to reduce stress, improve coping skills, and build resilience.
+    cta: "Visit attunerx.com"
+    link: https://attunerx.com
+introB:
     heading: "Free COVID Cancer Care Program Available"
     image: /img/app-devices.png
     bg: /img/app-bg.svg
     cta: "Try it here"
     link: https://covidcancercare.com
-values:
-    heading: We are Blue Note
-    image: /img/about-hero.jpg
-    text: Working closely with leading medical researchers and patient advocacy organizations, Blue Note is creating clinically-validated, FDA-approvable prescription-only digital devices to treat the burden of illness. Our team aims to make therapy available to any patient, at any time, on patients’ own mobile devices.
-    text2: Patients and clinicians are our partners in developing programs that are highly effective and engaging so that it is easier for patients to stick with them. Prescription digital therapeutics are scientifically validated and FDA-cleared digital interventions prescribed by physicians to treat medical conditions as first-line or adjuvant therapies.
-    logo1: /img/logo-jazz.svg
-contact:
-    heading: Contact Us
-    bg: "/img/contact-bg.svg"
-    text: Do you have comments or inquiries about our products in development, partnering opportunities or career opportunities? Write to us here.
+about:
+    heading: Why we do what we do
+    image: /img/fpo-box.png
+    text: Cancer-related stress hurts. It affects millions, and only 1 in 5 of those who suffer from it have access to the care they need to find relief.
+    cta: Learn more
+    link: /science
 ---
 <!-- **Table of Contents**
 
