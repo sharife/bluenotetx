@@ -20,7 +20,7 @@ introB:
     cta: "Try it here"
     link: https://covidcancercare.com
 about:
-    heading: Why we do what we do
+    heading: Cancer and Stress
     image: /img/fpo-box.png
     text: Cancer-related stress hurts. It affects millions, and only 1 in 5 of those who suffer from it have access to the care they need to find relief.
     cta: Learn more
