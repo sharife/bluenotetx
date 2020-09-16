@@ -41,7 +41,7 @@ contact:
 
 Last Updated: June 12, 2020
 
-Thank you for choosing our website,<span style="text-decoration:underline;"> [bluenotetherapeutics.com](http://www.bluenotetherapeutics.com/)</span>, hereafter referred to as “website”,  brought to you by Blue Note Therapeutics, Inc. (“BlueNote”).  Below are our Terms of Use and Privacy Policy.  We are pleased to answer any questions or concerns you may have at +1 415-237-3522 or [customersupport@bluenotetx.com](mailto:customersupport@bluenotetx.com)
+Thank you for choosing our website,<span style="text-decoration:underline;"> [bluenotetherapeutics.com](http://www.bluenotetherapeutics.com/)</span>, hereafter referred to as “website”,  brought to you by Blue Note Therapeutics, Inc. (“BlueNote”).  Below are our Terms of Use and Privacy Policy.  We are pleased to answer any questions or concerns you may have at +1 415-237-3512 or [customersupport@bluenotetx.com](mailto:customersupport@bluenotetx.com)
 
 Your use of our website is also subject to our Privacy Policy, which may change from time to time (the policy explains how you can learn about these changes), as well as the End User License Agreement described below and included in these Terms of Use. Our website is intended for use for use within the United States of America. 
 
