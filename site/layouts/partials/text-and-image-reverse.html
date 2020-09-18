@@ -4,30 +4,23 @@
 		<div class="flex-l mhn2-l">
 			<div class="w-50-l ph2-l">
 				<img src="{{.imageUrl}}" alt="" class="mb0 pb0">
-				<img src="/img/line-c.svg" alt="" class="mt0 pt0 mb3 w-100" id="line-c">
+				
+					<img src="/img/line-c.svg" alt="" class="mt0 pt0 mb3 w-100" id="line-c">
+				
 			</div>
 			<div class="w-50-l ph2-l mt6-l">
 				<h2 class="f2 b lh-title mb2 primary mt3 mt6-l">{{.heading}}</h2>
 
 				<p class="cms f6">{{.text | markdownify}}</p>
 
-				{{ if .text2}}
-					<p class="cms f6">{{.text2 | markdownify}}</p>
-				{{end}}
-
 				{{ if .logo}}
-					<p><img src="{{.logo}}" alt="" class="br0 mb3 w-80"></p>
+					<img src="{{.logo}}" alt="" class="mt0 pt0 br0 mb3 w-80">
 				{{end}}
 
 				{{ if .buttonText}}
 					<a href="{{.buttonLink}}" class="btn bg-primary white raise">{{.buttonText}}</a>
 				{{end}}
 
-				<div id="m-logos">
-				{{ if .logo1}}
-					<p class="tc"><img src="{{.logo1}}" alt="" class="mb3 w-40"></p>
-				{{end}}
-				</div>
 			</div>
 		</div>
 	</div>

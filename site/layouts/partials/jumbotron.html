@@ -1,12 +1,16 @@
 <div class="cover w-100 relative z-0" style="background-image: url({{.bg}});" id="cover-bg">
   <div>
-    <div class="flex-l mhn2-l">
-      <div class="w-50-l ph2-l">
-        <div class="mw6 center ph3 pl5-ns mt4 pv4">
+    <div class="flex-ns mhn2-l">
+      <div class="w-50-ns ph2">
+        <div class="mw6 center ph3-ns mt4 pv4">
+          {{ if .imageUrl }}
           <img src="/img/line-h.svg" alt="" class="pv3 mt4" style="min-width:60vw;" id="line-h">
-          <p><h1 class="f2 f1-l b di lh-title mb3 mw6 primary">
+          {{ else }}
+          <div class="mt4">&nbsp;</div>
+          {{ end }}
+          <p><div class="mr5-l"><h1 class="f2 f1-l b di lh-title mb3 primary">
             {{.title}}
-          </h1></p>
+          </h1></div><p>
           {{ if .subtitle }}
           <p class="f4 di lh-title mb3 mw6 black">
             {{.subtitle}}
@@ -19,7 +23,7 @@
           {{end}}
         </div>
       </div>
-      <div class="w-50-l pl2-l">
+      <div class="w-50-ns pl2-l">
         <img src="{{.imageUrl}}" alt="" class="w-100">
       </div>
     </div>

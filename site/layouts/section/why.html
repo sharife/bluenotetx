@@ -2,13 +2,13 @@
 
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.blurb.text "buttonText" .Params.cta "buttonLink" .Params.link "currentURL" .Permalink) }}
 
+<a name="{{.Params.link}}">&nbsp;</a>
 {{ partial "media-block" (dict "heading" .Params.intro.heading "text" .Params.intro.text "text2" .Params.intro.text2 "buttonText" .Params.intro.cta "buttonLink" .Params.intro.link "imageUrl" .Params.intro.image "bg" .Params.intro.bg) }}
 
-<a name="{{.Params.link}}">&nbsp;</a>
-{{ partial "text-and-image-reverse" (dict "heading" .Params.cbsm.heading "text" .Params.cbsm.text "imageUrl" .Params.cbsm.image) }}
+{{ partial "text-and-image-reverse" (dict "heading" .Params.cbsm.heading "text" .Params.cbsm.text "imageUrl" .Params.cbsm.image "line" "yes") }}
 
 <div class="mw7 center mb4 pa3">
-  <div class="cms f6">
+  <div class="cms small">
     {{ .Content }}
   </div>
 </div>

@@ -14,8 +14,22 @@
   }
 }
 
-#b-logos, #m-nav, #line-c, #line-h {
+#b-logos, #line-c, #line-h {
 	display:none;
+}
+
+#nav-r {
+  display: none;
+}
+
+
+@media only screen and (max-width: 1024px) {
+  #nav-r {
+    display: inline;
+  }
+  #nav-p {
+    display: none;
+  }
 }
 
 
@@ -26,9 +40,6 @@
 	#b-logos, #line-c, #line-h {
 		display: inline;
 	}
-  #m-nav {
-    display: flex;
-  }
   #cover-bg {
     top:-102px;
   }
@@ -142,17 +153,11 @@
 }
 
 
-#nav-mobile, #mobile-menu {
+#mobile-menu {
   display: none;
 }
 
-@media only screen and (max-width: 1020px) {
-  #nav-mobile {
-    display: inline;
-  }
-  #nav-main {
-    display: none;
-  }
+@media only screen and (max-width: 1024px) {
   body {
     top: 0px;
     padding-top:1px;

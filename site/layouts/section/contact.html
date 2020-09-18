@@ -2,28 +2,13 @@
 
 <!-- {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.blurb.text "buttonText" .Params.cta "buttonLink" .Params.link) }} -->
 
-<div class="pv1 cover bg-center bg-highlight">
+<div class="pv1 cover bg-center bg-grey-2">
   <div class="ph3 mw6 center">
-        <h2 class="f3 primary b lh-title mb2 pt4">{{.Params.contact.heading}}</h2>
+        <h2 class="f3 b lh-title mb2 pt4">{{.Params.contact.heading}}</h2>
 
-        <p class="cms primary f6">{{.Params.contact.text | markdownify}}</p>
+        <p class="cms f6">{{.Params.contact.text | markdownify}}</p>
         
         {{ partial "contact-form" . }}
-  </div>
-</div>
-
-
-<div id="open-modal-privacy" class="modal-window">
-  <a class="cancel" href="/#!"></a>
-  <div>
-    <a href="/#!" title="Close" class="modal-close"><img src="/img/close-button.svg" alt="close" class="w-40 mt2 ml3"></a>
-    <div class="scrollme">
-      <p class="f5 b mb0">Terms of Use &amp; Privacy Policy</p>
-      <hr />
-      <div class="cms mb0 mb2 small">
-        {{ .Content }}
-      </div>
-    </div>
   </div>
 </div>
 
