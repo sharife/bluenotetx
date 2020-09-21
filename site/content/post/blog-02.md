@@ -2,7 +2,7 @@
 title: Patients Talk About Making Products That Work for Them
 date: 2020-09-16T14:04:10.000Z
 description: How do you make sure an app for cancer-related distress really works for the millions of cancer patients who struggle with stress and anxiety? Ask real-life patients to help design it.
-image: "/img/fpo-box.png"
+image: "/img/feature-users.png"
 author: Sarah Reines
 ---
 

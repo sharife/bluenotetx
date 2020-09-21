@@ -2,12 +2,11 @@
 title: "Creating a New Way Forward"
 cta: Learn more
 link: values
-image: /img/hero-blank.svg
+image: /img/hero-journey.svg
 blurb:
     text: "Working closely with leading cancer centers and advocacy organizations, Blue Note is creating clinically-validated, FDA-approved digital devices for reducing cancer-related stress and anxiety."
 values:
     heading: We are Blue Note
-    image: /img/fpo-box.png
     text:  Our team aims to make psycho-social care available to any cancer patient, at any time, on patients’ own mobile devices. Cancer patients and leading clinicians are our partners in developing programs that are highly effective and engaging, so that it's easier for patients to stick with them.
 people:
     heading: Leadership
