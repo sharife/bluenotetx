@@ -10,7 +10,7 @@ introA:
     image: /img/attune-iphone.jpg
     logo: /img/logo-attune.svg
     text: >-
-      **Attune**, the premiere therapeutic app from Blue Note, uses cognitive behavioral therapy to reduce stress, improve coping skills, and build resilience.
+      **Attune&trade;**, the premiere therapeutic app from Blue Note, uses cognitive behavioral therapy to reduce stress, improve coping skills, and build resilience.
     cta: "Visit attunerx.com"
     link: https://attunerx.com
 introB:
