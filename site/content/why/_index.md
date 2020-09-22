@@ -1,17 +1,19 @@
 ---
-title: "Why We Do What We Do"
+title: "Cancer-Related Distress is Epidemic"
 cta: Learn more
 link: cbsm
 image: /img/hero-why-v2.svg
 blurb:
     text: "There are 18 million cancer patients and survivors in the United States today, and nearly half of them experience some form of psychological distress, such as stress or anxiety."
 intro:
-    heading: "Stress Hurts"
+    heading: "Cancer-Related Distress Hurts"
     image: /img/info-01.svg
+    caption: >-
+      Only 1 out of every 5 cancer patients currently has access to cancer-specific mental health care to alleviate their distress.
     text: >-
       Stress and anxiety can make it hard for cancer patients to stick with treatment and increase their time in the hospital as they undergo cancer care. Emerging evidence in breast cancer patients suggests there may be a link between psychological disorders and a higher risk of cancer recurrence. 
     text2: >-
-      In addition, few patients have access to cancer-specific psycho-social care. **Only 1 out of every 5 cancer patients currently has access to cancer-specific psycho-social care to alleviate their distress.** Cognitive behavioral stress management (CBSM) tailored to cancer patients has been shown in numerous clinical studies to improve emotional well-being and quality of life.
+      In addition, few patients have access to cancer-specific mental health care. **Only 1 out of every 5 cancer patients currently has access to cancer-specific mental health care to alleviate their distress.** Cognitive behavioral stress management (CBSM) tailored to cancer patients has been shown in numerous clinical studies to improve emotional well-being and quality of life.
 cbsm:
     heading: About Cognitive Behavioral Stress Management 
     image: /img/science-cbsm.png

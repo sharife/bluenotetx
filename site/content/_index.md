@@ -4,13 +4,13 @@ cta: Learn more
 link: about
 image: /img/hero-test.svg
 blurb:
-    text: "Blue Note merges deep scientific and clinical expertise in cancer-related stress with digital and gaming innovation to transform psycho-social care for cancer patients."
+    text: "Blue Note Therapeutics merges deep scientific and clinical expertise in cancer-related stress with digital and gaming innovation to transform mental health care for cancer patients."
 introA:
     heading: "Introducing a New Way to Live Better With Cancer"
     image: /img/attune-iphone.jpg
     logo: /img/logo-attune.svg
     text: >-
-      **Attune&trade;**, the premiere therapeutic app from Blue Note, uses cognitive behavioral therapy to reduce stress, improve coping skills, and build resilience.
+      **Attune&trade;**, the premiere online mental health treatment from Blue Note, uses cognitive behavioral therapy to reduce stress, improve coping skills, and build resilience.
     cta: "Visit attunerx.com"
     link: https://attunerx.com
 introB:
@@ -20,7 +20,7 @@ introB:
     cta: "Try it here"
     link: https://covidcancercare.com
 about:
-    heading: Cancer and Stress
+    heading: Cancer and Mental Health
     image: /img/cancer-stress.svg
     text: Cancer-related distress hurts. It affects millions, and only 1 in 5 of those who suffer from it have access to the care they need to find relief. Blue Note brings together cancer patients, psychology experts, and tech innovators to close the enormous gap in access to high quality, cancer-specific mental health care.
     cta: Learn more

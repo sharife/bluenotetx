@@ -1,7 +1,12 @@
 <div class="flex-m mhn3-m mb4">
 
   <div class="ph3-m w-50-m">
-    <img src="{{.imageUrl}}" alt="" class="db mb2 mw6-l ml5-l">
+    <div class="mw6-l ml5-l mb4">
+      <img src="{{.imageUrl}}" alt="" class="db" />
+      {{ if .caption }}
+        <h4 class="cms tc b ph5">{{.caption | markdownify}}</h4>
+      {{ end }}
+    </div>
   </div>
 
   <div class="ph3 w-50-m">
