@@ -15,15 +15,29 @@
 			<div class="tr" style="font-size:0.7rem;">
 				<p><strong>Blue Note Therapeutics</strong><br />
 					548 Market St, #55709<br />
-					San Francisco, California 94104-5401<br /><br />
-
-					© 2020 Blue Note Therapeutics. All rights reserved.<!-- <br /><a href="#open-modal-privacy" class="link">Terms of Use & Privacy Policy</a> --></p>
+					San Francisco, California 94104<br />
+					© 2020 Blue Note Therapeutics. All rights reserved.<br />
+					<a href="#open-modal-contact" class="link">Contact Us</a> | <a href="/privacy" class="link">Terms of Use & Privacy Policy</a><!-- <br /><a href="#open-modal-privacy" class="link">Terms of Use & Privacy Policy</a> --></p>
 			</div>
 
 		</div>
 	</div>
 
 </footer>
+
+
+<div id="open-modal-contact" class="modal-window">
+  <a class="cancel" href="#!"></a>
+  <div>
+    <a href="#!" title="Close" class="modal-close"><img src="/img/close-button.svg" alt="close" class="w-40 mt2 ml3"></a>
+    <div class="scrollme">
+	  <h2 class="f3 b lh-title mb2 pt2">Contact Us</h2>
+	  <p class="cms f6">Do you have comments or inquiries about our products in development, partnering opportunities or career opportunities? Write to us here.</p>
+
+	  {{ partial "contact-form" . }}
+    </div>
+  </div>
+</div>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 <!-- <script src="/js/app.js"></script> -->

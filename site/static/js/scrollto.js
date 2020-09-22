@@ -3,8 +3,8 @@ $('a[href*="#"]')
   // Remove links that don't actually link to anything
   .not('[href="#"]')
   .not('[href="#0"]')
-  .not('[href="#open-modal-terms"]')
-  .not('[href="#open-modal-privacy"]')
+  .not('[href="#!"]')
+  .not('[href="#open-modal-contact"]')
   .click(function(event) {
     // On-page links
     if (
