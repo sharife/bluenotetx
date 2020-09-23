@@ -2,7 +2,7 @@
 title: "Helping Cancer Patients Live Better"
 cta: Learn more
 link: about
-image: /img/hero-test.svg
+image: /img/hero-home.svg
 blurb:
     text: "Blue Note Therapeutics merges deep scientific and clinical expertise in cancer-related stress with digital and gaming innovation to transform mental health care for cancer patients."
 introA:
