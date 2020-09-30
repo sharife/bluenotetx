@@ -3,16 +3,26 @@
 		<h2 class="f2 b lh-title mb2 pl2-ns">{{.heading}}</h2>
 		<p class="mb4 mw6 pl2-ns">{{.description}}</p>
 
-		<div class="flex-ns flex-wrap mhn2-ns mb3">
+		<div class="flex flex-wrap mhn2-ns mb3">
 			{{ range .items }}
-				<div class="ph2-ns w-33-ns mb4">
-					<img src="{{ .image }}" alt="" class="center db mb3 w-100 br1">
-					{{ if .name }} <h4 class="b">{{ .name }}</h4> {{ end }}
+				<div class="ph2-ns w-50 w-33-ns mb4">
+					{{ if .name }}
+					<div class="w-40-ns mr3">
+						<img src="{{ .image }}" alt="" class="db br0 w-50 w-100-ns">
+					</div>
 					
-					{{ if .title }} <h5 class="f6">{{ .title }}</h5> {{ end }}
+					<div class="w-60-ns">
+						{{ if .name }}<p class="b mb0 pt3">{{ .name }}</p>{{ end }}
 					
-					{{ if .text }} <p class="cms small">{{ .text | markdownify }}</p> {{ end }}
+						{{ if .title }}<p class="f6 small">{{ .title }}</p>{{ end }}
 					
+						{{ if .text }} <p class="cms small">{{ .text | markdownify }}</p> {{ end }}
+					</div>
+					{{ else }}
+					<div class="w-100 pa2">
+						<img src="{{ .image }}" alt="" class="db mb3 br0">
+					</div>
+					{{ end }}					
 				</div>
 			{{ end }}
 		</div>

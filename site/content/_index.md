@@ -22,7 +22,7 @@ introB:
 about:
     heading: Cancer and Mental Health
     image: /img/cancer-stress.svg
-    text: Cancer-related distress hurts. It affects millions, and only 1 in 5 of those who suffer from it have access to the care they need to find relief. Blue Note brings together cancer patients, psychology experts, and tech innovators to close the enormous gap in access to high quality, cancer-specific mental health care.
+    text: Cancer-related distress hurts. It affects millions, and only 1 in 5 of those who suffer from it have access to the care they need to find relief. Blue Note brings together cancer patients, experts in psychology, and tech innovators to close the enormous gap in access to high quality, cancer-specific mental health care.
     cta: Learn more
     link: /why
 ---
