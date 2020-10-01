@@ -4,7 +4,7 @@ cta: Learn more
 link: about
 image: /img/hero-home.svg
 blurb:
-    text: "Blue Note Therapeutics merges deep scientific and clinical expertise in cancer-related stress with digital and gaming innovation to transform mental health care for cancer patients."
+    text: "Blue Note Therapeutics merges deep scientific and clinical expertise in cancer-related distress with digital and gaming innovation to transform mental health care for cancer patients."
 introA:
     heading: "Introducing a New Way to Live Better With Cancer"
     image: /img/attune-iphone.jpg
