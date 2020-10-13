@@ -23,6 +23,17 @@
 }
 
 
+.fade-1, .fade-2, .fade-3 {
+  opacity: 0;
+}
+
+.hideme {
+  opacity: 0;
+  padding-top: 10px;
+}
+
+
+
 @media only screen and (max-width: 1024px) {
   #nav-r {
     display: inline;
