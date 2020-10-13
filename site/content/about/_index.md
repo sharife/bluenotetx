@@ -4,7 +4,7 @@ cta: Learn more
 link: values
 image: /img/hero-journey.svg
 blurb:
-    text: "Working closely with leading cancer centers and advocacy organizations, Blue Note is creating clinically-validated, FDA-approved digital devices for reducing cancer-related distress and anxiety."
+    text: "Working closely with leading cancer centers and advocacy organizations, Blue Note is creating clinically-validated, FDA-approved digital devices for reducing cancer-related distress."
 values:
     heading: We are Blue Note
     text:  Our team aims to make mental health care available to any cancer patient, at any time, on patients’ own mobile devices. Cancer patients and leading clinicians are our partners in developing programs that are highly effective and engaging, so that it's easier for patients to stick with them.
@@ -41,7 +41,6 @@ partners:
         - image: /img/logo-MSK.png
         - image: /img/logo-MassGen.png
         - image: /img/logo-Sylvester.png
-        - image: /img/logo-ncnn.svg
 ---
 
 

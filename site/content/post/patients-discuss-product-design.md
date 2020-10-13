@@ -1,26 +1,26 @@
 ---
 title: Patients Talk About Making Products That Work for Them
 date: 2020-09-16T14:04:10.000Z
-description: How do you make sure an app for cancer-related distress really works for the millions of cancer patients who struggle with stress and anxiety? Ask real-life patients to help design it.
+description: How do you make sure that online mental health treatment for cancer-related distress really works for the millions of cancer patients who struggle with stress and anxiety? Ask real-life patients to help design it.
 image: "/img/feature-users.png"
 author: Sarah Reines
 ---
 
-At Blue Note Therapeutics, patients are involved in every step of the process to develop prescription digital therapeutics (apps) that help alleviate cancer-related distress. As a two-time cancer survivor (follicular lymphoma and breast cancer), I’m one of dozens of patients who have been invited to partner with Blue Note on product design. I’ve provided perspective on everything from what Blue Note’s apps look like, to the features they include, to the real-life scenarios embedded in them to demonstrate techniques for managing stress.  
+At Blue Note Therapeutics, patients are involved in every step of the process to develop online mental health treatments that help alleviate cancer-related distress. As a two-time cancer survivor (follicular lymphoma and breast cancer), I’m one of dozens of patients who have been invited to partner with Blue Note on treatment design. I’ve provided perspective on everything from what Blue Note’s online treatments look like, to the features they include, to the real-life scenarios embedded in them to demonstrate techniques for managing stress.  
 
 I’m not the only one. I recently sat down with two of my fellow patient advisors to talk about what the experience has been like. **Trevor Maxwell**, a Stage IV colorectal cancer survivor, is the founder of Man Up to Cancer, an organization dedicated to helping men connect and avoid isolation during their cancer journeys. **Karen Peterson**, a Stage IV breast cancer survivor, is a cancer research advocate and former social worker.  
 
-Here are excerpts of our conversation about what it has been like to play an important role in the development of tools like Covid Cancer Care and Attune™.  
+Here are excerpts of our conversation about what it has been like to play an important role in the development of treatments like Covid Cancer Care.  
 
 ---
 
-**Sarah:** So, Trevor, what made you decide to work with Blue Note on the design of digital therapy programs?  
+**Sarah:** So, Trevor, what made you decide to work with Blue Note on the design of its online treatments?  
 
-**Trevor:** In 2019 I was using social media a lot to post about my cancer journey and I got a direct message on Twitter from Laura (the head of patient engagement at Blue Note) inviting me to have a conversation about a project. I spent an hour on the phone talking with her about what Blue Note was hoping to do with digital therapy. My first response was skeptical because I’m big on real human connections, especially in cancer. I wondered, did Blue Note really have my best interest in mind? But Laura was so genuine that I opened my ears to listening. By the end of our conversation I was persuaded that this is worthwhile.  
+**Trevor:** In 2019 I was using social media a lot to post about my cancer journey and I got a direct message on Twitter from Laura (the head of patient engagement at Blue Note) inviting me to have a conversation about a project. I spent an hour on the phone talking with her about what Blue Note was hoping to do with mental health care online. My first response was skeptical because I’m big on real human connections, especially in cancer. I wondered, did Blue Note really have my best interest in mind? But Laura was so genuine that I opened my ears to listening. By the end of our conversation I was persuaded that this is worthwhile.  
 
 The fact is, face-to-face therapy is not always available to patients. If it’s a choice between patients accessing real, needed care through a device – 24/7, wherever they are -- or not accessing care at all, then I’d rather there be access to care. I thought that maybe if I was part of the team building it, I could help to steer it in a good direction.  
 
-**Sarah:** That sounds familiar. I also was curious about what Blue Note is trying to do with digital therapy, but skeptical at first. It’s kind of funny -- I’m pretty sure I told Laura that I was not likely to be a user of a therapy app but it turns out I was wrong about that. [Laughs] More about that, though, later. Karen, what about you? Why did you decide to partner with Blue Note?   
+**Sarah:** That sounds familiar. I also was curious about what Blue Note is trying to do with online mental health care, but skeptical at first. It’s kind of funny -- I’m pretty sure I told Laura that I was not likely to be a user of a therapy app but it turns out I was wrong about that. [Laughs] More about that, though, later. Karen, what about you? Why did you decide to partner with Blue Note?   
 
 **Karen:** I used to be a social worker and I understand how important mental health care is, because I've been in the trenches with people. I've seen adversity, people forced to rise to the occasion when they're at their worst, you know. Mental health care is especially important for cancer patients. When I was first diagnosed with cancer, another social worker walked me through my diagnosis…without her, it would have been a lot tougher. It’s too bad that mental health care gets pushed to the side often in cancer treatment. I think what Blue Note is doing -- being creative about finding ways to ease anxiety and stress and depression and help cancer patients who are going through mental health crises -- is very, very important…  
 
@@ -52,4 +52,4 @@ Trevor, what has surprised you about the apps or the process of developing them?
 
 --- 
 
-*Editor’s Note: Blue Note is always looking for additional patients to provide input on its digital therapeutic programs. If you are a patient and you’d like to be part of helping to develop future mental health solutions for other patients, please contact [insert desired contact].*
+*Editor’s Note: Blue Note is always looking for additional patients to provide input on its digital therapeutic programs. If you are a patient and you’d like to be part of helping to develop future mental health solutions for other patients, please contact [laurac@bluenotetx.com](mailto:laurac@bluenotetx.com).*
