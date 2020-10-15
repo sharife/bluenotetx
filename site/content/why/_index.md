@@ -2,7 +2,7 @@
 title: "Cancer-Related Distress is Epidemic"
 cta: Learn more
 link: cbsm
-image: /img/hero-why-v2.svg
+image: /img/hero-why-v2.png
 blurb:
     text: "There are 18 million cancer patients and survivors in the United States today, and nearly half of them experience some form of psychological distress, such as depression or anxiety."
 intro:
