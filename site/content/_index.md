@@ -4,7 +4,7 @@ cta: Learn more
 link: about
 image: /img/hero-home.svg
 blurb:
-    text: "Blue Note Therapeutics merges deep scientific and clinical expertise in cancer-related distress with digital and gaming innovation to transform mental health care for cancer patients."
+    text: "Blue Note Therapeutics merges deep scientific and clinical expertise in cancer-related distress with digital innovation to transform mental health care for cancer patients."
 introA:
     heading: "Introducing a New Way to Live Better With Cancer"
     image: /img/attune-iphone.jpg
@@ -22,7 +22,7 @@ introB:
 about:
     heading: Cancer and Mental Health
     image: /img/cancer-stress.svg
-    text: Cancer-related distress hurts. It affects millions, and only 1 in 5 of those who suffer from it have access to the care they need to find relief. Blue Note brings together cancer patients, experts in psychology, and tech innovators to close the enormous gap in access to high quality, cancer-specific mental health care.
+    text: Cancer-related distress hurts. It affects millions, and only 1 in 5 of those who suffer from it have access to the care they need to find relief. Blue Note brings together cancer patients, experts in psychology and behavioral science, and tech innovators to close the enormous gap in access to high quality, cancer-specific mental health care.
     cta: Learn more
     link: /why
 ---
