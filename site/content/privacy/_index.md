@@ -1,5 +1,5 @@
 ---
-title: "Terms of Use & Privacy Policy"
+title: "Privacy Policy"
 ---
 *Last Updated: October 23, 2020*
 
