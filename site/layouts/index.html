@@ -4,13 +4,13 @@
 
 {{ partial "text-and-image-reverse" (dict "heading" .Params.introA.heading "text" .Params.introA.text "buttonText" .Params.introA.cta "buttonLink" .Params.introA.link "imageUrl" .Params.introA.image "bg" .Params.introA.bg "logo" .Params.introA.logo) }}
 
+{{ partial "news-sm" . }}
+
 {{ partial "text-and-image" (dict "heading" .Params.introB.heading "text" .Params.introB.text "buttonText" .Params.introB.cta "buttonLink" .Params.introB.link "imageUrl" .Params.introB.image "bg" .Params.introB.bg) }}
 
 
 <a name="{{.Params.link}}">&nbsp;</a>
 {{ partial "text-and-image-reverse" (dict "heading" .Params.about.heading "text" .Params.about.text "buttonText" .Params.about.cta  "buttonLink" .Params.about.link "imageUrl" .Params.about.image "line" "yes") }}
-
-{{ partial "news-sm" . }}
 
 
 
