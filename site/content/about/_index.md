@@ -35,12 +35,12 @@ people:
           image: /img/profile-dianne.png
 partners:
     heading: We Can't Do This Alone
-    description: Blue Note Therapeutics is honored to partner with leading cancer care organizations in our quest to help cancer patients live better.
+    description: Blue Note Therapeutics is honored to work with the National Comprehensive Cancer Network (NCCN) and other leading cancer care organizations in our quest to help cancer patients live better.
     items:
-        - image: /img/logo-CSC.png
+        - image: /img/logo-ncnn.svg
         - image: /img/logo-MSK.png
-        - image: /img/logo-MassGen.png
         - image: /img/logo-Sylvester.png
+        - image: /img/logo-CSC.png
 ---
 
 

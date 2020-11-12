@@ -10,7 +10,7 @@ introA:
     image: /img/attune-iphone.jpg
     logo: /img/logo-attune.svg
     text: >-
-      **Attune&trade;**, the premiere online mental health treatment from Blue Note, uses cognitive behavioral therapy to reduce stress, improve coping skills, and build resilience.
+      **Attune&trade;**, the premiere online mental health treatment from Blue Note, uses cognitive behavioral therapy to reduce stress, improve coping skills, and build resilience. It is available now through select cancer centers. To learn more, visit [attunerx.com](https://attunerx.com).
     cta: "Visit attunerx.com"
     link: https://attunerx.com
 introB:

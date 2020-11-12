@@ -2,12 +2,14 @@
 
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.blurb.text "buttonText" .Params.cta "buttonLink" .Params.link "currentURL" .Permalink) }}
 
+
+
 <a name="{{.Params.link}}">&nbsp;</a>
 {{ partial "text-only" (dict "heading" .Params.values.heading "text" .Params.values.text "text2" .Params.values.text2 "imageUrl" .Params.values.image) }}
 
 {{ partial "3-up" .Params.people }}
 
-<!-- {{ partial "3-up" .Params.partners }} -->
+{{ partial "3-up" .Params.partners }}
 
 
 {{ end }}

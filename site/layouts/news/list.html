@@ -1,0 +1,17 @@
+{{ define "main" }}
+
+{{ partial "jumbotron" (dict "title" "Press Releases" "subtitle" "Explore the latest news from Blue Note Therapeutics. For media inquiries, contact pr@bluenotetx.com.") }}
+
+
+<div class="mw7 center ph2">
+  <ul class="flex-ns flex-wrap mhn1-ns mb4">
+      {{ range (.Paginator 10).Pages.ByPublishDate.Reverse }}
+          <div class="w-100-ns ph1-ns flex">
+            {{ .Render "li"}}
+          </div>
+      {{ end }}
+  </ul>
+  {{ partial "pagination" . }}
+</div>
+
+{{end}}
