@@ -1,19 +1,16 @@
 ---
 title: "Cancer-Related Distress is Epidemic"
-cta: Learn more
-link: cbsm
 image: /img/hero-why-v2.png
 blurb:
-    text: "There are 18 million cancer patients and survivors in the United States today, and nearly half of them experience some form of psychological distress, such as depression or anxiety."
+    text: "There are about 18 million cancer patients and survivors in the United States today. Nearly half of all cancer patients experience psychosocial distress, anxiety, or depression."
 intro:
-    heading: "Cancer-Related Distress Hurts"
     image: /img/info-01.svg
     caption: >-
-      Only 1 out of every 5 cancer patients currently has access to cancer-specific mental health care to alleviate their distress.
+      Fewer than half of patients who experience cancer-related distress are referred to mental health care specialists.
     text: >-
-      Depression and anxiety can make it hard for cancer patients to stick with treatment and increase their time in the hospital as they undergo cancer care. Emerging evidence in breast cancer patients suggests that it may be important to manage cancer-related distress to reduce the risk of cancer recurrence. 
+      If left untreated, these feelings can lower a cancer survivors' quality of life and may negatively affect survival. The National Comprehensive Cancer Network has proposed guidelines for the delivery of mental health care services in oncology, which include screening patients for signs of distress and implementing a treatment plan to address these needs with a mental health care specialist. 
     text2: >-
-      In addition, few patients have access to cancer-specific mental health care. **Only 1 out of every 5 cancer patients currently has access to cancer-specific mental health care to alleviate their distress.** Cognitive behavioral stress management (CBSM) has been tailored to cancer patients and shown in numerous clinical studies to improve emotional well-being, physical health and overall survival.
+      Unfortunately, fewer than half of patients who experience cancer-related distress are referred to mental health care specialists. Prescription digital therapeutics that help to treat cancer-related distress have the potential to help close this cancer treatment gap. These may incorporate cognitive behavioral stress management (CBSM), which has been tailored to cancer patients and shown in numerous clinical studies to improve emotional well-being, physical health and overall survival.
 cbsm:
     heading: About Cognitive Behavioral Stress Management 
     image: /img/science-cbsm.png
