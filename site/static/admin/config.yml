@@ -107,8 +107,8 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Intro", name: intro, widget: object, fields: [
               {label: "Text 1", name: "text", widget: "text"},
               {label: "Text 2", name: "text2", widget: "text"},
-              {label: "Image", name: "image", widget: "image"},
-              {label: Caption, name: caption, widget: string}]}
+              {label: "Image", name: "image", widget: "image", required: false},
+              {label: Caption, name: caption, widget: string, required: false}]}
           - label: About CBSM
             name: cbsm
             widget: object
