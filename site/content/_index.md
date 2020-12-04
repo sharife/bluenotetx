@@ -9,7 +9,7 @@ introA:
     image: /img/attune-iphone.jpg
     logo: /img/logo-attune.svg
     text: >-
-      **Attune&trade;** is the first prescription digital therapeutic specifically designed to treat the symptoms of anxiety and depression related to cancer in adult patients. Studies and pilot programs of attune™ are underway at sites across the United States. To learn more, visit [attunerx.com](https://attunerx.com).
+      **Attune&trade;** is the first prescription digital therapeutic specifically designed to treat the symptoms of anxiety and depression related to cancer in adult patients. Studies and pilot programs will begin at sites across the United States in the coming weeks. To learn more, visit [attunerx.com](https://attunerx.com).
     cta: "Visit attunerx.com"
     link: https://attunerx.com
 introB:
