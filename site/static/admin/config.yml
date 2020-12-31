@@ -9,6 +9,21 @@ collections: # A list of collections the CMS should be able to edit
     label: "Post" # Used in the UI, ie.: "New Post"
     folder: "site/content/post" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
+    editor:
+      preview: false
+    fields: # The fields each document in this collection have
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Intro Blurb", name: "description", widget: "text"}
+      - {label: "Author", name: "author", widget: "string", required: false}
+      - {label: "Image", name: "image", widget: "image", required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "news" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "News" # Used in the UI, ie.: "New Post"
+    folder: "site/content/news" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    editor:
+      preview: false
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
@@ -17,66 +32,88 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "pages"
     label: "Pages"
+    editor:
+      preview: false
     files:
       - file: "site/content/_index.md"
         label: "Home Page"
         name: "home"
         fields:
           - {label: Title, name: title, widget: string}
-          - {label: Subtitle, name: subtitle, widget: string}
           - {label: Image, name: image, widget: image}
-          - {label: "Blurb", name: blurb, widget: object, fields: [
-              {label: "Heading", name: "heading", widget: string},
+          - {label: "Overview", name: blurb, widget: object, fields: [
+              {label: "Text", name: "text", widget: "text"}]}
+          - {label: Button label, name: cta, widget: string}
+          - {label: Button link, name: link, widget: string}
+          - {label: "Highlight 1", name: introA, widget: object, fields: [
+              {label: "Text", name: "text", widget: "text"},
+              {label: "Logo", name: "logo", widget: "image"},
+              {label: Button label, name: cta, widget: string},
+              {label: Button link, name: link, widget: string}]}
+          - {label: "Highlight 2", name: introB, widget: list, fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Image", name: "image", widget: "image"},
+              {label: "Text", name: "text", widget: "text"},
+              {label: Button label, name: cta, widget: string},
+              {label: Button link, name: link, widget: string}]}
+          - {label: "About", name: "about", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Image", name: "image", widget: "image"},
+              {label: "Text", name: "text", widget: "text"},
+              {label: Button label, name: cta, widget: string},
+              {label: Button link, name: link, widget: string}]}
+      - file: "site/content/about/_index.md"
+        label: "About Page"
+        name: "about"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: "Overview", name: blurb, widget: object, fields: [
+              {label: "Text", name: "text", widget: "text"}]}
+          - {label: Image, name: image, widget: image}
+          - {label: Button label, name: cta, widget: string}
+          - {label: Button link, name: link, widget: string}
+          - label: People
+            name: people
+            widget: object
+            fields:
+              - {label: Heading, name: heading, widget: string}
+              - {label: Text, name: description, widget: text, required: false}
+              - label: Bios
+                name: items
+                widget: list
+                fields:
+                  - {label: Name, name: name, widget: string}
+                  - {label: Title, name: title, widget: string}
+                  - {label: Image, name: image, widget: image}
+          - label: Partners
+            name: partners
+            widget: object
+            fields:
+              - {label: Heading, name: heading, widget: string}
+              - {label: Text, name: description, widget: text, required: false}
+              - label: Logos
+                name: items
+                widget: list
+                fields:
+                  - {label: Image, name: image, widget: image}
+      - file: "site/content/why/_index.md"
+        label: "Cancer and Mental Health Page"
+        name: "why"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - {label: "Overview", name: blurb, widget: object, fields: [
               {label: "Text", name: "text", widget: "text"}]}
           - {label: "Intro", name: intro, widget: object, fields: [
-              {label: "Heading", name: "heading", widget: string},
-              {label: "Text", name: "text", widget: "text"}]}
-          - {label: "Products", name: products, widget: list, fields: [
-              {label: "Image", name: "image", widget: "image"},
-              {label: "Text", name: "text", widget: "text"}]}
-          - {label: "Values", name: "values", widget: "object", fields: [
-              {label: "Heading", name: "heading", widget: string},
-              {label: "Text", name: "text", widget: "text"}]}
-      - file: "site/content/contact/_index.md"
-        label: "Contact Page"
-        name: "contact"
-        fields:
-          - {label: Title, name: title, widget: string}
-          - {label: Logo, name: logo, widget: image}
-          - {label: Body, name: body, widget: markdown}
-          - label: Contact Entries
-            name: contact_entries
-            widget: list
-            fields:
-              - label: Heading
-                name: heading
-                widget: string
-              - label: Text
-                name: text
-                widget: text
-      - file: "site/content/products/_index.md"
-        label: "Products Page"
-        name: "products"
-        fields:
-          - {label: Title, name: title, widget: string}
-          - {label: Image, name: image, widget: image}
-          - {label: Heading, name: heading, widget: string}
-          - {label: Description, name: description, widget: string}
-          - {label: Intro, name: intro, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Description, name: description, widget: text}, {label: Blurbs, name: blurbs, widget: list, fields: [{label: Image, name: image, widget: image}, {label: Text, name: text, widget: text}]}]}
-          - {label: Main, name: main, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Description, name: description, widget: text}, {label: Image1, name: image1, widget: object, fields: [{label: Image, name: image, widget: image}, {label: Alt, name: alt, widget: string}]}, {label: Image2, name: image2, widget: object, fields: [{label: Image, name: image, widget: image}, {label: Alt, name: alt, widget: string}]}, {label: Image3, name: image3, widget: object, fields: [{label: Image, name: image, widget: image}, {label: Alt, name: alt, widget: string}]}]}
-          - {label: Testimonials, name: testimonials, widget: list, fields: [{label: Quote, name: quote, widget: string}, {label: Author, name: author, widget: string}]}
-          - {label: Full_image, name: full_image, widget: image}
-          - {label: Pricing, name: pricing, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Description, name: description, widget: string}, {label: Plans, name: plans, widget: list, fields: [{label: Plan, name: plan, widget: string}, {label: Price, name: price, widget: string}, {label: Description, name: description, widget: string}, {label: Items, name: items, widget: list}]}]}
-      - file: "site/content/values/_index.md"
-        label: "Values Page"
-        name: "values"
-        fields:
-          - {label: Title, name: title, widget: string}
-          - {label: Image, name: image, widget: image}
-          - label: Values
-            name: values
-            widget: list
+              {label: "Text 1", name: "text", widget: "text"},
+              {label: "Text 2", name: "text2", widget: "text"},
+              {label: "Image", name: "image", widget: "image", required: false},
+              {label: Caption, name: caption, widget: string, required: false}]}
+          - label: About CBSM
+            name: cbsm
+            widget: object
             fields:
               - {label: Heading, name: heading, widget: string}
               - {label: Text, name: text, widget: text}
               - {label: Image, name: imageUrl, widget: image}
+          - {label: "Body", name: "body", widget: "markdown"}

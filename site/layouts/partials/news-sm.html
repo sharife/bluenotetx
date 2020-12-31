@@ -1,0 +1,23 @@
+<div class="pv5 mb4">
+	<div class="mw7 center header-text-sm">
+
+		<h2 class="f2 b lh-title mb3 ph3 hideme">Latest News</h1>
+
+		<div class="w-100 flex-ns mhn1-ns flex-wrap ph3 mb3" style="margin-left:auto">
+			{{ range first 3 (where .Site.Pages "Type" "news") }}
+				{{ if ne .Title "News"}}
+				<div class="w-100 flex pr2-ns">
+					{{ .Render "li-news-sm" }}
+				</div>
+				{{ end }}
+			{{ end }}
+		</div>
+
+		<!-- <div class="tr ph3 mb2">
+			<div class="hideme">
+				<a href="/news" class="btn raise">More news »</a>
+			</div>
+		</div> -->
+
+	</div>
+</div>

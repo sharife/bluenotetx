@@ -4,13 +4,12 @@ cta: Learn more
 link: about
 image: /img/hero-home.svg
 blurb:
-    text: "Blue Note Therapeutics merges deep scientific and clinical expertise in cancer-related distress with digital innovation to transform mental health care for cancer patients."
+    text: "Blue Note Therapeutics is a prescription digital therapeutics company singularly dedicated to transforming mental health care for cancer patients. We aim to make mental health care available to any cancer patient at any time by merging deep scientific and clinical expertise, neuroscience, and digital innovation."
 introA:
-    heading: "Introducing a New Way to Live Better With Cancer"
     image: /img/attune-iphone.jpg
     logo: /img/logo-attune.svg
     text: >-
-      **Attune&trade;**, the premiere online mental health treatment from Blue Note, uses cognitive behavioral therapy to reduce stress, improve coping skills, and build resilience.
+      **Attune&trade;** is the first prescription digital therapeutic specifically designed to treat the symptoms of anxiety and depression related to cancer in adult patients. Studies and pilot programs will begin at sites across the United States in the coming weeks. To learn more, visit [attunerx.com](https://attunerx.com).
     cta: "Visit attunerx.com"
     link: https://attunerx.com
 introB:
@@ -22,7 +21,7 @@ introB:
 about:
     heading: Cancer and Mental Health
     image: /img/cancer-stress.svg
-    text: Cancer-related distress hurts. It affects millions, and only 1 in 5 of those who suffer from it have access to the care they need to find relief. Blue Note brings together cancer patients, experts in psychology and behavioral science, and tech innovators to close the enormous gap in access to high quality, cancer-specific mental health care.
+    text: Cancer-related distress, which can be defined as any unpleasant feeling, emotion, or experience that affects a cancer patient's quality of life or ability to cope with cancer diagnosis and treatment, affects millions of people. Fewer than half of those who experience cancer-related distress have access to the mental health care they need to find relief. Blue Note Therapeutics is working to close this gap.
     cta: Learn more
     link: /why
 ---

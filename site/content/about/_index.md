@@ -4,10 +4,7 @@ cta: Learn more
 link: values
 image: /img/hero-journey.svg
 blurb:
-    text: "Working closely with leading cancer centers and advocacy organizations, Blue Note is creating clinically-validated, FDA-approved digital devices for reducing cancer-related distress."
-values:
-    heading: We are Blue Note
-    text:  Our team aims to make mental health care available to any cancer patient, at any time, on patients’ own mobile devices. Cancer patients and leading clinicians are our partners in developing programs that are highly effective and engaging, so that it's easier for patients to stick with them.
+    text: "Working closely with leading cancer centers, community oncology, and teams of patients, Blue Note is developing clinically validated prescription digital therapeutics to help reduce anxiety, depression, and other distress related to cancer."
 people:
     heading: Leadership
     description: 
@@ -35,12 +32,12 @@ people:
           image: /img/profile-dianne.png
 partners:
     heading: We Can't Do This Alone
-    description: Blue Note Therapeutics is honored to partner with leading cancer care organizations in our quest to help cancer patients live better.
+    description: Blue Note Therapeutics is honored to work with the National Comprehensive Cancer Network (NCCN) and other leading cancer care organizations in our quest to help cancer patients live better.
     items:
-        - image: /img/logo-CSC.png
+        - image: /img/logo-ncnn.svg
         - image: /img/logo-MSK.png
-        - image: /img/logo-MassGen.png
         - image: /img/logo-Sylvester.png
+        - image: /img/logo-CSC.png
 ---
 
 
