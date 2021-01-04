@@ -8,9 +8,9 @@ intro:
     caption: >-
       Fewer than half of patients who experience cancer-related distress are referred to mental health care specialists.
     text: >-
-      If left untreated, these feelings can lower a cancer survivors' quality of life and may negatively affect survival. The National Comprehensive Cancer Network has proposed guidelines for the delivery of mental health care services in oncology, which include screening patients for signs of distress and implementing a treatment plan to address these needs with a mental health care specialist. 
+      If left untreated, these feelings can lower a cancer survivors' quality of life and may negatively affect survival. The National Comprehensive Cancer Network (NCCN) has proposed guidelines for the delivery of mental health care services in oncology, which include screening patients for signs of distress and implementing a treatment plan to address these needs with a mental health care specialist. 
     text2: >-
-      Unfortunately, fewer than half of patients who experience cancer-related distress are referred to mental health care specialists. Prescription digital therapeutics that help to treat cancer-related distress have the potential to help close this cancer treatment gap. These may incorporate cognitive behavioral stress management (CBSM), which has been tailored to cancer patients and shown in numerous clinical studies to improve emotional well-being, physical health and overall survival.
+      Unfortunately, fewer than half of patients who experience cancer-related distress are referred to mental health care specialists. Prescription digital therapeutics that help to treat cancer-related distress have the potential to help close this cancer treatment gap. These may incorporate cognitive behavioral stress management (CBSM), which has been tailored to cancer patients and shown in numerous clinical studies to improve emotional well-being, physical health, and overall survival.
 cbsm:
     heading: About Cognitive Behavioral Stress Management 
     image: /img/science-cbsm.png
