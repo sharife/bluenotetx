@@ -4,7 +4,7 @@ cta: Learn more
 link: values
 image: /img/hero-journey.svg
 blurb:
-    text: "Working closely with leading cancer centers, community oncology, and teams of patients, Blue Note is developing clinically validated prescription digital therapeutics to help reduce anxiety, depression, and other distress related to cancer."
+    text: "Working closely with leading cancer centers, community oncology clinics, and teams of patients, Blue Note is developing clinically validated prescription digital therapeutics to help reduce anxiety, depression, and other distress related to cancer."
 people:
     heading: Leadership
     description: 
@@ -29,7 +29,7 @@ people:
           image: /img/profile-laura.png
         - name: Dianne Shumay
           title: Scientific Advisor
-          image: /img/profile-dianne.png
+          image: /img/profile-dianne2.png
 partners:
     heading: We Can't Do This Alone
     description: Blue Note Therapeutics is honored to work with the National Comprehensive Cancer Network (NCCN) and other leading cancer care organizations in our quest to help cancer patients live better.
