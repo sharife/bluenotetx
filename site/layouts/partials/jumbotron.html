@@ -33,9 +33,19 @@
           </div>
           
             {{ if .subtitle }}
-            <h3 class="f4 di lh-title mw6 black">
-              {{.subtitle}}
-            </h3>
+            <div class="mb2">
+              <h3 class="f4 di lh-title mw6 black">
+                {{.subtitle}}
+              </h3>
+            </div>
+            {{ end }}
+
+            {{ if .intro }}
+            <div>
+              <p class="di mw6 black">
+                {{.intro}}
+              </p>
+            </div>
             {{ end }}
           </div>
         </div>
