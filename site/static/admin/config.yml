@@ -58,14 +58,16 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Button label, name: cta, widget: string}
           - {label: Button link, name: link, widget: string}
           - {label: "Highlight 1", name: introA, widget: object, fields: [
-              {label: "Text", name: "text", widget: "text"},
-              {label: "Logo", name: "logo", widget: "image"},
+              {label: "Text", name: "text", widget: "markdown"},
+              {label: "Image", name: "image", widget: "image"},
+              {label: "Logo", name: "logo", widget: "image", required: false},
               {label: Button label, name: cta, widget: string},
               {label: Button link, name: link, widget: string}]}
           - {label: "Highlight 2", name: introB, widget: list, fields: [
               {label: "Heading", name: "heading", widget: "string"},
               {label: "Image", name: "image", widget: "image"},
-              {label: "Text", name: "text", widget: "text"},
+              {label: "Background", name: "bg", widget: "image"},
+              {label: "Text", name: "text", widget: "markdown", required: false},
               {label: Button label, name: cta, widget: string},
               {label: Button link, name: link, widget: string}]}
           - {label: "About", name: "about", widget: "object", fields: [
