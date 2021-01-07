@@ -5,7 +5,7 @@ date: 2021-01-03T14:04:10.000Z
 
 The Product Manager is a critical role in the launch of Blue Note Therapeutic’s first products and the viability of the business. Reporting to the Head of Product, the Product Manager will be responsible for the full product life cycle for the prescription digital therapeutics (PDTs), focusing on emerging technologies that enable people with cancer to have better lives, in spite of their fight and their disease.  
 
-The Product Manager will work closely with design, engineering, patient engagement and access teams as well as other internal stakeholders and external consultants. S/he will develop product strategy and KPIs and work with others across the organization to deliver on market requirements, incorporating feedback and input from patients, partners and product strategy and research teams. Specifically, s/he will focus on ensuring our soon to be launched PDT’s products are successful and deliver on health outcome goals. 
+The Product Manager will work closely with design, engineering, patient engagement and access teams as well as other internal stakeholders and external consultants. S/he will develop product strategy and KPIs and work with others across the organization to deliver on market requirements, incorporating feedback and input from patients, partners and product strategy and research teams. Specifically, s/he will focus on ensuring our soon to be launched PDT’s products are successful and deliver on health outcome goals.  
  
 
 ### Summary Of Key Responsibilities  
