@@ -3,7 +3,7 @@
 {{ partial "jumbotron" (dict "title" "Latest News" "subtitle" "Explore the most recent news from Blue Note." "intro" "For media inquiries, contact pr@bluenotetx.com.") }}
 
 
-<div class="mw6 center ph3">
+<div class="mw6 center ph3 fade-2">
   <ul class="flex-ns flex-wrap mhn1-ns mb4">
       {{ range (.Paginator 10).Pages.ByPublishDate.Reverse }}
           <div class="w-100-ns ph1-ns flex mb4">

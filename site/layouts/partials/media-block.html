@@ -3,13 +3,13 @@
   <div class="ph3-m w-50-m">
     <div class="mw6-l ml5-l mb4">
       {{ if .imageURL }}
-        <img src="{{.imageUrl}}" alt="" class="db" />
+        <img src="{{.imageUrl}}" alt="" class="db hideme" />
         {{ if .caption }}
-          <h4 class="cms tc b ph5">{{.caption | markdownify}}</h4>
+          <h4 class="cms tc b ph5 hideme">{{.caption | markdownify}}</h4>
         {{ end }}
       {{ else }}
         {{ if .caption }}
-          <div class="ma3 ma2-m" style="border-bottom: 1px solid var(--primary);border-top: 1px solid var(--primary);">
+          <div class="ma3 ma2-m hideme" style="border-bottom: 1px solid var(--primary);border-top: 1px solid var(--primary);">
             <h2 class="f3 primary tc ph5 ph0-m pv4 b">{{.caption | markdownify}}</h2>
           </div>
         {{ end }}
@@ -18,10 +18,10 @@
   </div>
 
   <div class="ph3 w-50-m">
-    <h3 class="f3 b lh-title mb1">{{.heading}}</h3>
-    <p class="cms">{{.text | markdownify}}</p>
+    <h3 class="f3 b lh-title mb1 hideme">{{.heading}}</h3>
+    <p class="cms hideme">{{.text | markdownify}}</p>
     {{ if .text2 }}
-    	<p class="cms">{{.text2 | markdownify}}</p>
+    	<p class="cms hideme">{{.text2 | markdownify}}</p>
     {{ end }}
   </div>
 

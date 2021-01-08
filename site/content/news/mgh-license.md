@@ -8,4 +8,4 @@ Blue Note Therapeutics, Inc., a prescription digital therapeutics company, has e
 
 A randomized head-to-head clinical trial is currently underway at MGH and Dana-Farber Cancer Institute to measure the prototype’s ability to improve the physical and psychological symptoms patients with acute myeloid leukemia experience during hospitalization for their leukemia care as compared to usual care.  
 
-For more information about the study, visit https://clinicalTrials.gov (NCT03372291).
+For more information about the study, visit [https://clinicalTrials.gov](https://clinicaltrials.gov/ct2/show/NCT03372291) (NCT03372291).

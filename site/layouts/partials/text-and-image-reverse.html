@@ -3,22 +3,22 @@
 
 		<div class="flex-l mhn2-l">
 			<div class="w-50-l ph2-l">
-				<img src="{{.imageUrl}}" alt="" class="mb0 pb0">
+				<img src="{{.imageUrl}}" alt="" class="mb0 pb0 hideme">
 				
-					<img src="/img/line-c.svg" alt="" class="mt0 pt0 mb3 w-100" id="line-c">
+				<img src="/img/line-c.svg" alt="" class="mt0 pt0 mb3 w-100 hideme" id="line-c">
 				
 			</div>
 			<div class="w-50-l ph2-l mt6-l">
 				{{ if .heading }}
-					<h2 class="f2 b lh-title mb2 primary mt3 mt6-l">{{.heading}}</h2>
+					<h2 class="f2 b lh-title mb2 primary mt3 mt6-l hideme">{{.heading}}</h2>
 				{{ end }}
 				
 				{{ if .logo}}
-					<p class="f6 mt3 mt6-l primary mb1 ttu">Introducing</p>
-					<img src="{{.logo}}" alt="attune" class="pt0 br0 mb3 w-80">
+					<p class="f6 mt3 mt6-l primary mb1 ttu hideme">Introducing</p>
+					<img src="{{.logo}}" alt="attune" class="pt0 br0 mb3 w-80 hideme">
 				{{end}}
 
-				<p class="cms f6">{{.text | markdownify}}</p>
+				<p class="cms f6 hideme">{{.text | markdownify}}</p>
 
 
 				{{ if .buttonText}}

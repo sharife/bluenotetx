@@ -4,12 +4,12 @@
 		<div class="flex-l mhn2-l">
 			<div class="w-30-l ph2-l">
 				<img src="/img/line-v.svg" class="relative" style="top:-50px;width:11px;" />
-				<h2 class="f3 white b lh-title mb2">{{.heading}}</h2>
+				<h2 class="f3 white b lh-title mb2 hideme">{{.heading}}</h2>
 
-				<p class="cms">{{.text | markdownify}}</p>
+				<p class="cms hideme">{{.text | markdownify}}</p>
 
 				{{ if .text2}}
-					<p class="cms">{{.text2 | markdownify}}</p>
+					<p class="cms hideme">{{.text2 | markdownify}}</p>
 				{{end}}
 
 				{{ if .buttonText}}
@@ -18,7 +18,7 @@
 			</div>
 
 			<div class="w-70-l ph2-l">
-				<img src="{{.imageUrl}}" alt="" class="mb3">
+				<img src="{{.imageUrl}}" alt="" class="mb3 hideme">
 			</div>
 		</div>
 	</div>
