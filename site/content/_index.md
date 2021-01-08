@@ -19,7 +19,7 @@ introB:
     cta: "Try it here"
     link: https://covidcancercare.com
 about:
-    heading: Cancer and Mental Health
+    heading: Cancer-Related Distress
     image: /img/cancer-stress.svg
     text: Cancer-related distress, which can be defined as any unpleasant feeling, emotion, or experience that affects a cancer patient's quality of life or ability to cope with cancer diagnosis and treatment, affects millions of people. Fewer than half of those who experience cancer-related distress have access to the mental health care they need to find relief. Blue Note Therapeutics is working to close this gap.
     cta: Learn more

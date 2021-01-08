@@ -1,6 +1,6 @@
 ---
 title: Blue Note Therapeutics Enters Licensing Agreement with the University of Miami
-date: 2020-10-30T14:04:10.000Z
+date: 2020-05-30T14:04:10.000Z
 description: The agreement allows Blue Note to develop and commercialize a prescription digital therapeutic for stress management in cancer patients.
 ---
 

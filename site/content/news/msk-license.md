@@ -1,6 +1,6 @@
 ---
 title: Blue Note Therapeutics Enters Agreement to Create a Prescription Digital Therapeutic Medical Device for Cancer Patients
-date: 2020-12-30T14:04:10.000Z
+date: 2020-09-30T14:04:10.000Z
 description: Memorial Sloan Kettering Cancer Center (MSK) and Blue Note Therapeutics, Inc., have agreed to collaborate on creating a prescription digital therapeutic medical device from a psychological intervention created specifically for cancer patients with advanced cancer. 
 ---
 
