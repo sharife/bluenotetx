@@ -1,6 +1,7 @@
 backend:
   name: git-gateway
-
+display_url: http://www.bluenotetx.com
+publish_mode: editorial_workflow
 media_folder: "site/static/img" # Folder where user uploaded files should go
 public_folder: "img"
 
@@ -31,7 +32,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Image", name: "image", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "job" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Job" # Used in the UI, ie.: "New Post"
+    label: "Jobs" # Used in the UI, ie.: "New Post"
     folder: "site/content/jobs" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     editor:
@@ -53,17 +54,17 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Image, name: image, widget: image}
-          - {label: "Overview", name: blurb, widget: object, fields: [
-              {label: "Text", name: "text", widget: "text"}]}
           - {label: Button label, name: cta, widget: string}
           - {label: Button link, name: link, widget: string}
+          - {label: "Overview", name: blurb, widget: object, fields: [
+              {label: "Text", name: "text", widget: "text"}]}
           - {label: "Highlight 1", name: introA, widget: object, fields: [
               {label: "Text", name: "text", widget: "markdown"},
               {label: "Image", name: "image", widget: "image"},
               {label: "Logo", name: "logo", widget: "image", required: false},
               {label: Button label, name: cta, widget: string},
               {label: Button link, name: link, widget: string}]}
-          - {label: "Highlight 2", name: introB, widget: list, fields: [
+          - {label: "Highlight 2", name: introB, widget: object, fields: [
               {label: "Heading", name: "heading", widget: "string"},
               {label: "Image", name: "image", widget: "image"},
               {label: "Background", name: "bg", widget: "image"},
