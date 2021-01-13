@@ -2,9 +2,9 @@
 title: Head of Clinical Development
 date: 2021-01-13T22:21:33.177Z
 ---
-Blue Note is looking for the clinical development talent to help us become a category-defining cancer company in 2021.  Blue Note has a portfolio of products and a suite of registrational, label expansion and health economic/outcomes trials in development and execution.We have an immediate need for a Head of Clinical Development to provide strategic and technical leadership for our suite of clinical development efforts including: clinical-regulatory development; oncologic, mental health and neuroscience clinical trial design, implementation and execution; clinical data analysis and management; biostatistics; and clinical competitive intelligence. The role is responsible for overseeing trials in clinical development and pharmacovigilance according to agreed-upon deadlines, for establishing and maintaining close working relationships with clinical counterparts and stakeholders and for providing the clinical-regulatory landscape for each of the clinical programs. The Head of Clinical Development will act as a cross functional advisor across Blue Note functions and will partner with internal and external experts in clinical practice, development, pharmacovigilance, biostatistics, regulatory affairs, product and commercial. 
+Blue Note is looking for the clinical development talent to help us become a category-defining cancer company in 2021. Blue Note has a portfolio of products and a suite of registrational, label expansion and health economic/outcomes trials in development and execution. We have an immediate need for a Head of Clinical Development to provide strategic and technical leadership for our suite of clinical development efforts including: clinical-regulatory development; oncologic, mental health and neuroscience clinical trial design, implementation and execution; clinical data analysis and management; biostatistics; and clinical competitive intelligence. 
 
-
+The role is responsible for overseeing trials in clinical development and pharmacovigilance according to agreed-upon deadlines, for establishing and maintaining close working relationships with clinical counterparts and stakeholders and for providing the clinical-regulatory landscape for each of the clinical programs. The Head of Clinical Development will act as a cross functional advisor across Blue Note functions and will partner with internal and external experts in clinical practice, development, pharmacovigilance, biostatistics, regulatory affairs, product and commercial. 
 
 ### Summary Of Key Responsibilities
 
@@ -67,8 +67,6 @@ Requirements for Remote Work:
 * Minimum upload speed 5 MB/s, preferred upload speed 25 MB/s
 * Minimum download speed 25 MB/s, preferred download speed 50 MB/s
 * Candidates must provide and meet all technical requirements prior to the first day of work
-
-
 
 - - -
 
