@@ -62,7 +62,7 @@ While performing the duties of this Job, the employee may be regularly required 
 
 Requirements for Remote Work:
 
-* A quiet workplace to perform work duties and participate in virtual meetings  
+* A quiet workplace to perform work duties and participate in virtual meetings
 * Must live in a location that can leverage an existing reliable high-speed internet and phone service
 * Minimum upload speed 5 MB/s, preferred upload speed 25 MB/s
 * Minimum download speed 25 MB/s, preferred download speed 50 MB/s
