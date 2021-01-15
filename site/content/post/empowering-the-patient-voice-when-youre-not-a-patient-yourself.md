@@ -42,6 +42,8 @@ Any digital health solution must solve the engagement challenge. If a product do
 
 So how do we keep patients engaged? Empathy is the key. Empathic interactions in healthcare require that a patient is understood, that a provider communicates with the patient to make sure they are on the same page, and that the actions taken together reflect that shared understanding. 
 
+> So how do we keep patients engaged? Empathy is the key.
+
 For our small team of founders to develop a product that is empathic to those impacted by the distress associated with diagnosis, treatment, and survivorship of cancer, we focus on listening and doing our best to understand that experience through their eyes. It’s about building authentic relationships and trust. 
 
 In this process, we’ve created a team of patients, our ambassadors, some of whom are known patient advocates or leaders in patient organizations, some who are “everyday” patients, but all of whom are committed to solving a problem they have experienced. Whether it’s a strategy meeting, brand positioning workshop, or team building, we want our patient ambassadors there. 
