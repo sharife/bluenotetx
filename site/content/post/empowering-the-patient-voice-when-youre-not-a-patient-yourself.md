@@ -14,6 +14,8 @@ One of the most difficult memories comes from when I was about 20 years old. My 
 
 Years later, as a social worker, I learned that hospital staff commonly refer to patients as their diagnosis — “the breast C.A. in room 302,” or “Your C-section just left recovery.” The practice is dehumanizing. Like my grandfather, we all come to any medical experience with everything else that has shaped us. Patients are whole people, not just their disease.
 
+> Patients are whole people, not just their disease.
+
 That core understanding has motivated me along every step of my career path, from social work, to patient services in the biotech industry, to head of patient engagement at Blue Note Therapeutics. In short, Blue Note creates therapy programs to address the unmet mental health and emotional needs of people facing cancer. These programs are delivered via computer or mobile device, allowing patients to access therapy any time, anywhere. 
 
 The winding road to my current position started with those foundational experiences involving hospitals and healthcare systems. I became a hospital-based social worker because I wanted to address the emotional — technically, the “psychosocial” — experience of people facing illness. 
