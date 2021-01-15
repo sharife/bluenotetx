@@ -1,6 +1,6 @@
 ---
 title: Empowering the Patient Voice When You're Not a Patient Yourself
-date: 2021-01-15T19:24:09.560Z
+date: 2021-01-18T14:28:38.305Z
 description: "My nontraditional career path led to a new point of view on
   compassion and empathy. "
 author: Laura Brown Chavaree
