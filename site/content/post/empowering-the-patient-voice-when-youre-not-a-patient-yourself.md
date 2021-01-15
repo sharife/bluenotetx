@@ -4,6 +4,7 @@ date: 2021-01-15T19:24:09.560Z
 description: "My nontraditional career path led to a new point of view on
   compassion and empathy. "
 author: Laura Brown Chavaree
+image: img/hero-journey.svg
 ---
 <!--StartFragment-->
 
