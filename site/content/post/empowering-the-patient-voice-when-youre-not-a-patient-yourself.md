@@ -6,8 +6,6 @@ description: "My nontraditional career path led to a new point of view on
 author: Laura Brown Chavaree
 image: img/hero-journey.svg
 ---
-<!--StartFragment-->
-
 For better or worse, I’ve never been a stranger to hospitals. The tiled hallways, the patients, the rush of nurses and doctors, the emotional weight of those spaces. Growing up in a multigenerational family, hospitals were familiar territory. 
 
 I saw many recoveries, and the adaptation to chronic illness, but also the losses. Cancer fit both categories — survived but “chronic” for some; deadly for others.
@@ -50,6 +48,4 @@ Finally, I have gathered these threads. I find myself at a company that values a
 
 No longer am I limited to the “empty chairs” metaphor as a way to keep patient experience present in our work. The chairs around me are occupied by actual patients, and their voices are the most powerful at the table. 
 
-*If you know someone experiencing increased distress related to COVID-19 and having cancer, this program is available for FREE from Blue Note Therapeutics: [covidcancercare.com](http://covidcancercare.com/)*
-
-<!--EndFragment-->
+*If you know someone experiencing increased distress related to COVID-19 and having cancer, this program is available for FREE from Blue Note Therapeutics: [covidcancercare.com](https://covidcancercare.com/)*
