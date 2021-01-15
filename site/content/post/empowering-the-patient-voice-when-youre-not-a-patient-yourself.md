@@ -26,6 +26,8 @@ In the late 1990s, when I transitioned to a biotechnology company designing and 
 
 Many healthcare companies declare their commitment to being “patient centric,” but not so many have built a corporate culture where decisions are based purely on the needs of individual patients, or where the products are designed with patient needs as the top concern. Decisions in the biotech industry are complex and driven by market potential, not just patient needs. Similar to my experience as a social worker, those of us representing the voices of the patients were not the most influential people at the table. 
 
+> Many healthcare companies declare their commitment to being “patient centric,” but not so many have built a corporate culture where decisions are based purely on the needs of individual patients, or where the products are designed with patient needs as the top concern.
+
 We’re building something different at Blue Note. As head of patient engagement and part of the founding team, my role is to make sure patients inform every decision we make.
 
 Prior to joining the Blue Note team in 2019, I sometimes referenced Jeff Bezos and his practice of having an empty chair in every meeting, meant to represent the customer. But I was also conscious of the dangers of referring to “the patient” as if there’s a singular persona to which one can anchor.
