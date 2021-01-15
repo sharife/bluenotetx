@@ -40,7 +40,7 @@ When I first began talking with Geoff Eich, Blue Note’s CEO, I saw someone who
 
 Any digital health solution must solve the engagement challenge. If a product doesn’t connect with patients, keep their interest, and provide an experience they look forward to, they simply won’t use it and the intended therapeutic benefits will be lost. 
 
-So how do we keep patients engaged? Empathy is the key. Empathic interactions in healthcare require that a patient is understood, that a provider communicates with the patient to make sure they are on the same page, and that the actions taken together reflect that shared understanding. 
+So how do we keep patients engaged? Empathy is the key. Empathic interactions in healthcare require that a patient is understood, that a provider communicates with the patient to make sure they are on the same page, and that the actions taken together reflect that shared understanding. 
 
 > So how do we keep patients engaged? Empathy is the key.
 
