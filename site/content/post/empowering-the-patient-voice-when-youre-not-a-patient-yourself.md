@@ -1,7 +1,7 @@
 ---
 title: Empowering the Patient Voice When You're Not a Patient Yourself
 date: 2021-01-18T14:28:38.305Z
-description: "How one executives' nontraditional career path led to a new point
+description: "How one executive's nontraditional career path led to a new point
   of view on compassion and empathy. "
 author: Laura Brown Chavaree
 image: img/hero-journey.svg
