@@ -6,7 +6,7 @@ Blue Note Therapeutics is a prescription digital therapeutics company singularly
 
 We have an immediate need for a Software Quality Assurance Engineer to support integration of Product Development with the Quality Management System.  This position will partner closely with development teams to ensure that relevant QMS processes are understood, implemented, and functioning as intended, as well as identifying areas for improvement. With an emphasis on supporting quality throughout the product development lifecycle, this position differs from a testing role, however knowledge of development and execution of test scripts is a plus.  
 
-Summary Of Key Responsibilities
+**Summary Of Key Responsibilities**
 
 * Provide software quality assurance review, subject matter expertise, and support to product development teams, operations, and information systems in support of corporate production and quality objectives. 
 * Serve as Quality core team member on project teams
@@ -25,7 +25,7 @@ Summary Of Key Responsibilities
 * Provide Quality management with status updates on assigned responsibilities and goals
 * Manage post market surveillance and product complaint handling
 
-Qualifications and Skills
+**Qualifications and Skills**
 
 * Experience working with Corrective Action/Preventive Action, and thinking outside the box in order to ensure Product Development deliverables are created and other aspects of the QMS are defined and executed per the project’s Quality Plan
 * 4+ years Software Quality Engineering or relevant experience 
@@ -44,16 +44,16 @@ Qualifications and Skills
 * The statements herein describe the general nature and level of work being performed by employees assigned to this position and should not be construed as an exhaustive list of all responsibilities, duties, and skills required or assigned
 * TRAVEL: Ability to travel up to 30% of the time as needed
 
-Certifications and/or Licensure
+**Certifications and/or Licensure**
 
 * Software certifications (ASQ CSQE) preferred
 
-Education and/or Experience
+**Education and/or Experience**
 
 * Bachelors degree in Engineering, Computer Science, Sciences
 * Equivalent combination of experience and/or education may be considered
 
-Computer Skills
+**Computer Skills**
 
 To perform this job successfully, an individual should have knowledge of Microsoft software applications, internet capabilities, virtual team applications. Excellent computer skills, including Word, Excel, PowerPoint, gSuite,
 
@@ -68,8 +68,6 @@ Requirements for Remote Work:
 * Minimum upload speed 5 MB/s, preferred upload speed 25 MB/s
 * Minimum download speed 25 MB/s, preferred download speed 50 MB/s
 * Candidates must provide and meet all technical requirements prior to the first day of work
-
-
 
 #### We are Blue Note Therapeutics
 
