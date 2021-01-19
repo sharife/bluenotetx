@@ -57,19 +57,17 @@ We have an immediate need for a Software Quality Assurance Engineer to support i
 
 To perform this job successfully, an individual should have knowledge of Microsoft software applications, internet capabilities, virtual team applications. Excellent computer skills, including Word, Excel, PowerPoint, gSuite,
 
-Physical Demands/Work Environment
+**Physical Demands/Work Environment**
 
 While performing the duties of this Job, the employee may be regularly required to sit; stand or remain stationary for extended periods of time and use hands and fingers as well as talk and hear. Reasonable accommodations may be made for individuals with disabilities to perform the essential functions.
 
-Requirements for Remote Work:
+**Requirements for Remote Work:**
 
 * A quiet workplace to perform work duties and participate in virtual meetings  
 * Must live in a location that can leverage an existing reliable high-speed internet and phone service
 * Minimum upload speed 5 MB/s, preferred upload speed 25 MB/s
 * Minimum download speed 25 MB/s, preferred download speed 50 MB/s
 * Candidates must provide and meet all technical requirements prior to the first day of work
-
-
 
   - - -
 
