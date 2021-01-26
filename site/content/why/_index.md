@@ -6,7 +6,7 @@ blurb:
     States today. Nearly half of all cancer patients experience psychosocial
     distress, anxiety, or depression.
 intro:
-  image: /img/info-01.svg
+  image: ""
   caption: Fewer than half of patients who experience cancer-related distress are
     referred to mental health care specialists.
   text: "If left untreated, these feelings can lower a cancer survivors' quality
