@@ -1,15 +1,7 @@
 ---
 title: Key Account Manager
 date: 2021-02-03T18:27:08.150Z
-description: We have an immediate need for a Key Account Manager.  This is a
-  critical role in the launch of Blue Note Therapeutics's first products and the
-  viability of the business.  The Key Account Manager is accountable for driving
-  unit growth, delivering customer value, relaying customer needs and critique
-  back to Blue Note, and advancing all aspects of the relationship with in-scope
-  accounts.  As customer relationships mature, and as clinical and health
-  economic evidence mounts, the Key Account Manager’s focus will expand from
-  establishing and supporting new accounts to increasing patient volume in
-  existing accounts.
+description: ""
 ---
 **Blue Note Therapeutics is a prescription digital therapeutics company singularly dedicated to transforming mental health care for cancer patients. We aim to make mental health care available to any cancer patient at any time by merging deep scientific and clinical expertise, neuroscience, and digital innovation.  Working closely with leading cancer centers, community oncology and teams of patients, Blue Note is developing clinically validated prescription digital therapeutics to help reduce anxiety, depression and other distress related to cancer. For more information, visit us at www.bluenotetx.com.**
 
