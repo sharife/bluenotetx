@@ -13,4 +13,4 @@ Breakthrough Device Designation is a process designed to expedite the developmen
 
 BNT001 is based on a cancer-specific face-to-face behavioral intervention created and studied by Michael H. Antoni, PhD and Frank J. Penedo, PhD at the Sylvester Comprehensive Cancer Center at the University of Miami. [Learn more about the licensing agreement.](https://bluenotetherapeutics.com/news/umiami-license/)
 
-Clinical studies and pilot programs for BNT001 will begin January 2021 at sites across the United States. The data from these trials is intended to support the product’s future FDA regulatory submission. A manufacturer that receives Breakthrough Device Designation is also eligible for prioritized review of their submission.
+Clinical studies and pilot programs for BNT001 will begin February 2021 at sites across the United States. The data from these trials is intended to support the product’s future FDA regulatory submission. A manufacturer that receives Breakthrough Device Designation is also eligible for prioritized review of their submission.
