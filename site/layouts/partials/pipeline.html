@@ -3,51 +3,161 @@
 		<h2 class="f2 b lh-title mb2 pl2-ns hideme">{{.heading}}</h2>
 		<p class="mb4 mw6 pl2-ns hideme">{{.description}}</p>
 
-		<table class="w-100 pl2-ns mb3 hideme">
-			<tr class="w-100 bg-highlight b small">
-				<td class="tc pa2 lh-title">
-					Product Candidate
-				</td>
-				<td class="tc pa2 lh-title">
-					Disease Progression
-				</td>
-				<td class="tc pa2 lh-title">
-					Development
-				</td>
-				<td class="tc pa2 lh-title">
-					Proof of Concept
-				</td>
-				<td class="tc pa2 lh-title">
-					Pivotal Trial
-				</td>
-				<td class="tc pa2 lh-title">
-					FDA Review
-				</td>
-			</tr>
-			{{ range .items }}
-				<tr class="w-100 bg-grey-2 small" style="border-top: 1px solid white;">
-					{{ if .name }}
-					<td class="tc pa2 lh-title">
-						{{ if .name }}{{ .name }}{{ end }}
-					</td>
-					<td class="tc pa2 lh-title">
-						{{ if .stage }}{{ .stage }}{{ end }}
-					</td>
-					<td class="tc pa2 lh-title">
-						{{ if ge .status "0" }} &#10005; {{ end }}
-					</td>
-					<td class="tc pa2 lh-title">
-						{{ if ge .status "1" }} &#10005; {{ end }}
-					</td>
-					<td class="tc pa2 lh-title">
-						{{ if ge .status "2" }} &#10005; {{ end }}
-					</td>
-					<td class="tc pa2 lh-title">
-						{{ if ge .status "3" }} &#10005; {{ end }}
-					</td>
-					{{ end }}					
-				</tr>
-			{{ end }}
-		</table>
+		<div id="table-a">
+			<table class="w-100 pl2-ns mb3 hideme">
+				<thead>
+					<tr class="w-100 bg-primary white b small">
+						<td class="tc pa2 lh-title">
+							Product Candidate
+						</td>
+						<td class="tc pa2 lh-title">
+							Disease Progression
+						</td>
+						<td class="tc pa2 lh-title">
+							Development
+						</td>
+						<td class="tc pa2 lh-title">
+							Proof of Concept
+						</td>
+						<td class="tc pa2 lh-title">
+							Pivotal Trial
+						</td>
+						<td class="tc pa2 lh-title">
+							FDA Review
+						</td>
+					</tr>
+				</thead>
+				<tbody>
+				{{ range .items }}
+					<tr class="w-100 bg-highlight small" style="border-top: 1px solid white;">
+						{{ if .name }}
+						<td class="tc pa2 lh-title">
+							{{ if .name }}{{ .name }}{{ end }}
+						</td>
+						<td class="tc pa2 lh-title">
+							{{ if .stage }}{{ .stage }}{{ end }}
+						</td>
+						<td class="tc pa2 lh-title">
+							{{ if ge .status "0" }} &#10005; {{ end }}
+						</td>
+						<td class="tc pa2 lh-title">
+							{{ if ge .status "1" }} &#10005; {{ else }} &nbsp; {{ end }}
+						</td>
+						<td class="tc pa2 lh-title">
+							{{ if ge .status "2" }} &#10005; {{ else }} &nbsp; {{ end }}
+						</td>
+						<td class="tc pa2 lh-title">
+							{{ if ge .status "3" }} &#10005; {{ else }} &nbsp; {{ end }}
+						</td>
+						{{ end }}					
+					</tr>
+				{{ end }}
+				</tbody>
+			</table>
+		</div>
+
+		<div id="table-b">
+			<table class="w-100 pl2-ns mb3 hideme">
+				<thead>
+					<tr class="w-100 bg-primary white b small">
+						<td class="tc pa2 lh-title">
+							Product Candidate
+						</td>
+						<td class="tc pa2 lh-title">
+							Disease Progression
+						</td>
+						<td class="tc pa2 lh-title">
+							Status
+						</td>
+					</tr>
+				</thead>
+				<tbody>
+				{{ range .items }}
+					<tr class="w-100 bg-highlight small" style="border-top: 1px solid white;">
+						{{ if .name }}
+						<td class="tc pa2 lh-title">
+							{{ if .name }}{{ .name }}{{ end }}
+						</td>
+						<td class="tc pa2 lh-title">
+							{{ if .stage }}{{ .stage }}{{ end }}
+						</td>
+						<td class="tc pa2 lh-title">
+							{{.status}}
+						</td>
+						{{ end }}					
+					</tr>
+				{{ end }}
+				</tbody>
+			</table>
+			<div class="small">
+				<div class="b">Status Key:</div>
+				<div>0 = Development</div>
+				<div>1 = Proof of Concept</div>
+				<div>2 = Pivotal Trial</div>
+				<div>3 = FDA Review</div>
+			</div>
+		</div>
+
+
+
 	</div>
 </div>
+
+
+<style type="text/css">
+	/*tr:nth-of-type(even) { background-color: #eeeeee; }*/
+	#table-a {
+		display:block;
+	}
+	#table-b {
+		display:none;
+	}
+
+@media only screen and (max-width: 640px)  {
+
+	#table-a {
+		display:none;
+	}
+	#table-b {
+		display:block;
+	}
+/*
+	table, thead, tbody, th, td, tr { 
+		display: block; 
+	}
+	
+	thead tr { 
+		position: absolute;
+		top: -9999px;
+		left: -9999px;
+	}
+	
+	tr { border: 1px solid #ccc; }
+	
+	td { 
+		border: none;
+		border-bottom: 1px solid #eee; 
+		position: relative;
+		padding-left: 50%;
+		text-align: left; 
+	}
+	
+	td:before { 
+		position: absolute;
+		top: 9px;
+		left: 9px;
+		width: 45%; 
+		padding-right: 10px; 
+		white-space: nowrap;
+		font-weight: bold;
+	}
+	
+	td:nth-of-type(1):before { content: "Product Candidate"; }
+	td:nth-of-type(2):before { content: "Disease Progression"; }
+	td:nth-of-type(3):before { content: "Development"; }
+	td:nth-of-type(4):before { content: "Proof of Concept"; }
+	td:nth-of-type(5):before { content: "Pivotal Trial"; }
+	td:nth-of-type(6):before { content: "FDA Review"; }
+}
+*/
+</style>
