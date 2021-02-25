@@ -1,0 +1,53 @@
+<div class="pv4 mb4">
+	<div class="ph3 mw7 center">
+		<h2 class="f2 b lh-title mb2 pl2-ns hideme">{{.heading}}</h2>
+		<p class="mb4 mw6 pl2-ns hideme">{{.description}}</p>
+
+		<table class="w-100 pl2-ns mb3 hideme">
+			<tr class="w-100 bg-highlight b small">
+				<td class="tc pa2 lh-title">
+					Product Candidate
+				</td>
+				<td class="tc pa2 lh-title">
+					Disease Progression
+				</td>
+				<td class="tc pa2 lh-title">
+					Development
+				</td>
+				<td class="tc pa2 lh-title">
+					Proof of Concept
+				</td>
+				<td class="tc pa2 lh-title">
+					Pivotal Trial
+				</td>
+				<td class="tc pa2 lh-title">
+					FDA Review
+				</td>
+			</tr>
+			{{ range .items }}
+				<tr class="w-100 bg-grey-2 small" style="border-top: 1px solid white;">
+					{{ if .name }}
+					<td class="tc pa2 lh-title">
+						{{ if .name }}{{ .name }}{{ end }}
+					</td>
+					<td class="tc pa2 lh-title">
+						{{ if .stage }}{{ .stage }}{{ end }}
+					</td>
+					<td class="tc pa2 lh-title">
+						{{ if ge .status "0" }} &#10005; {{ end }}
+					</td>
+					<td class="tc pa2 lh-title">
+						{{ if ge .status "1" }} &#10005; {{ end }}
+					</td>
+					<td class="tc pa2 lh-title">
+						{{ if ge .status "2" }} &#10005; {{ end }}
+					</td>
+					<td class="tc pa2 lh-title">
+						{{ if ge .status "3" }} &#10005; {{ end }}
+					</td>
+					{{ end }}					
+				</tr>
+			{{ end }}
+		</table>
+	</div>
+</div>

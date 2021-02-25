@@ -38,6 +38,22 @@ partners:
         - image: /img/logo-MSK.png
         - image: /img/logo-Sylvester.png
         - image: /img/logo-CSC.png
+pipeline:
+  heading: Our Pipeline
+  description: 
+  items:
+    - name: BNT001
+      stage: Early - Mid Stage
+      status: 2
+    - name: BNT201
+      stage: Acute In-patient
+      status: 1
+    - name: BNT301
+      stage: Late Stage
+      status: 0
+    - name: BNT401
+      stage: Survivorship
+      status: 0
 ---
 
 
