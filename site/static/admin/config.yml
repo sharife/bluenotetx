@@ -111,6 +111,19 @@ collections: # A list of collections the CMS should be able to edit
                 widget: list
                 fields:
                   - {label: Image, name: image, widget: image}
+          - label: Pipeline
+            name: pipeline
+            widget: object
+            fields:
+              - {label: Heading, name: heading, widget: string}
+              - {label: Text, name: description, widget: text, required: false}
+              - label: Products
+                name: items
+                widget: list
+                fields:
+                  - {label: Name, name: name, widget: text}
+                  - {label: Stage, name: stage, widget: text}
+                  - {label: Status, name: status, widget: text}
       - file: "site/content/why/_index.md"
         label: "Cancer and Mental Health Page"
         name: "why"

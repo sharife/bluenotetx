@@ -40,7 +40,7 @@ partners:
         - image: /img/logo-CSC.png
 pipeline:
   heading: Our Pipeline
-  description: 
+  description: Blue Note's products will serve all cancer patients, from early stage through survivorship, in both the in-patient and out-patient settings.
   items:
     - name: BNT001
       stage: Early - Mid Stage
