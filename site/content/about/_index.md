@@ -30,6 +30,19 @@ people:
         - name: Dianne Shumay
           title: Scientific Advisor
           image: /img/profile-dianne2.png
+board:
+    heading: Board of Directors
+    description: 
+    items:
+        - name: Andrew Firlik
+          title: Jazz Venture Partners
+          image: /img/profile-andrew.png
+        - name: John Harris
+          title: Jazz Venture Partners
+          image: /img/profile-john.png
+        - name: Geoff Eich
+          title: Blue Note Therapeutics
+          image: /img/profile-geoff.png
 partners:
     heading: We Can't Do This Alone
     description: Blue Note Therapeutics is honored to work with the National Comprehensive Cancer Network (NCCN) and other leading cancer care organizations in our quest to help cancer patients live better.
