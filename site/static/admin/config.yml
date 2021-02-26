@@ -100,6 +100,21 @@ collections: # A list of collections the CMS should be able to edit
                   - {label: Name, name: name, widget: string}
                   - {label: Title, name: title, widget: string}
                   - {label: Image, name: image, widget: image}
+                  - {label: Link, name: link, widget: string}
+          - label: Board
+            name: board
+            widget: object
+            fields:
+              - {label: Heading, name: heading, widget: string}
+              - {label: Text, name: description, widget: text, required: false}
+              - label: Bios
+                name: items
+                widget: list
+                fields:
+                  - {label: Name, name: name, widget: string}
+                  - {label: Title, name: title, widget: string}
+                  - {label: Image, name: image, widget: image}
+                  - {label: Link, name: link, widget: string}
           - label: Partners
             name: partners
             widget: object
@@ -121,9 +136,9 @@ collections: # A list of collections the CMS should be able to edit
                 name: items
                 widget: list
                 fields:
-                  - {label: Name, name: name, widget: text}
-                  - {label: Stage, name: stage, widget: text}
-                  - {label: Status, name: status, widget: text}
+                  - {label: Name, name: name, widget: string}
+                  - {label: Stage, name: stage, widget: string}
+                  - {label: Status, name: status, widget: string}
       - file: "site/content/why/_index.md"
         label: "Cancer and Mental Health Page"
         name: "why"

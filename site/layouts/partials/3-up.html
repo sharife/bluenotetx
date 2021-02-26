@@ -12,11 +12,12 @@
 					</div>
 					
 					<div class="w-60-ns">
-						{{ if .name }}<p class="b mb0 pt3">{{ .name }}</p>{{ end }}
+						{{ if .name }}<p class="b mb0 small pt3">{{ .name }}</p>{{ end }}
 					
-						{{ if .title }}<p class="f6 small">{{ .title }}</p>{{ end }}
+						{{ if .title }}<p class="f6 small mb0">{{ .title }}</p>{{ end }}
 					
-						{{ if .text }} <p class="cms small">{{ .text | markdownify }}</p> {{ end }}
+						<a href="{{ .link }}"><img src="/img/icon-linkedin.svg" class="mw1 br0" /></a>
+						
 					</div>
 					{{ else }}
 					<div class="w-100 pa2">
