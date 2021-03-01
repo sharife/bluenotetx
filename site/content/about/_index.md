@@ -33,7 +33,7 @@ people:
           title: Patient Engagement
           image: /img/profile-laura.png
           link: https://www.linkedin.com/in/lbchavaree/
-        - name: Dianne Shumay, PhD
+        - name: Dianne Shumay
           title: Scientific Advisor
           image: /img/profile-dianne2.png
           link: https://www.linkedin.com/in/dianne-shumay-phd-7b802a4/
@@ -41,15 +41,15 @@ board:
     heading: Board of Directors
     description: 
     items:
-        - name: Andrew Firlik, MD, MBA
+        - name: Andrew Firlik
           title: Jazz Venture Partners
           image: /img/profile-andrew.png
           link: https://www.linkedin.com/in/andrew-firlik-b97a0977/
-        - name: John Harris, MBA, BS
+        - name: John Harris
           title: Jazz Venture Partners
           image: /img/profile-john.png
           link: https://www.linkedin.com/in/john-f-harris-56874248/
-        - name: Geoff Eich, MBA, BS
+        - name: Geoff Eich
           title: Blue Note Therapeutics
           image: /img/profile-geoff.png
           link: https://www.linkedin.com/in/geoffreyeich/
