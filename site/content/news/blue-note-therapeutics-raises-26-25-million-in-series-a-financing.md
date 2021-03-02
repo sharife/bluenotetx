@@ -20,6 +20,8 @@ Blue Note holds licensing agreements with several leading cancer centers and uni
 
 In 2020, Blue Note launched COVID Cancer Care, a digital wellness program intended to help adults with cancer cope with stress and anxiety related to the COVID-19 pandemic. 
 
+&nbsp;
+
 **About BNT001**
 BNT001 received Breakthrough Device Designation from the FDA in June 2020 for the treatment of symptoms of anxiety and depression related to cancer in adult patients. BNT001 is not cleared by the FDA for any indication. Early access to the COVID Cancer Care program was made possible under the FDA’s enforcement policy for digital health devices for treating psychiatric disorders during the COVID-19 public health emergency which was announced in April 2020.  For more information, visit [www.bluenotetherapeutics.com](http://www.bluenotetherapeutics.com). 
 
@@ -53,9 +55,9 @@ stefanie.tuck@porternovelli.com
 - - -
 
 ###### References
-1 American Cancer Society. Cancer Facts & Figures 2020. <https://www.cancer.org/content/dam/cancer-org/research/cancer-facts-and-statistics/annual-cancer-facts-and-figures/2020/cancer-facts-and-figures-2020.pdf>.\
-2 Mehnert A, Hartung TJ, Friedrich M, et al. One in two cancer patients is significantly distressed: Prevalence and indicators of distress. Psychooncology. 2018;27:75-82.\
-3 Centers for Disease Control and Prevention. Anxiety and Depression Medicine Use Among Cancer Survivors. <https://www.cdc.gov/cancer/dcpc/research/articles/anxiety_dep_med_survivors.htm>. 
-4 National Comprehensive Cancer Network. Distress Management, Version 3.2019, NCCN Clinical Practice Guidelines in Oncology. <https://jnccn.org/view/journals/jnccn/17/10/article-p1229.xml>.\
-5 OncoLink. What is Cancer Related Distress? <https://www.oncolink.org/support/practical-and-emotional/coping-communication-concerns/what-is-cancer-related-distress>.
-6 American Cancer Society. Cancer Treatment & Survivorship Facts & Figures 2019-2021. <https://www.cancer.org/content/dam/cancer-org/research/cancer-facts-and-statistics/cancer-treatment-and-survivorship-facts-and-figures/cancer-treatment-and-survivorship-facts-and-figures-2019-2021.pdf>.
+1. American Cancer Society. Cancer Facts & Figures 2020. <https://www.cancer.org/content/dam/cancer-org/research/cancer-facts-and-statistics/annual-cancer-facts-and-figures/2020/cancer-facts-and-figures-2020.pdf>.\
+2. Mehnert A, Hartung TJ, Friedrich M, et al. One in two cancer patients is significantly distressed: Prevalence and indicators of distress. Psychooncology. 2018;27:75-82.\
+3. Centers for Disease Control and Prevention. Anxiety and Depression Medicine Use Among Cancer Survivors. <https://www.cdc.gov/cancer/dcpc/research/articles/anxiety_dep_med_survivors.htm>. 
+4. National Comprehensive Cancer Network. Distress Management, Version 3.2019, NCCN Clinical Practice Guidelines in Oncology. <https://jnccn.org/view/journals/jnccn/17/10/article-p1229.xml>.\
+5. OncoLink. What is Cancer Related Distress? <https://www.oncolink.org/support/practical-and-emotional/coping-communication-concerns/what-is-cancer-related-distress>.
+6. American Cancer Society. Cancer Treatment & Survivorship Facts & Figures 2019-2021. <https://www.cancer.org/content/dam/cancer-org/research/cancer-facts-and-statistics/cancer-treatment-and-survivorship-facts-and-figures/cancer-treatment-and-survivorship-facts-and-figures-2019-2021.pdf>.
