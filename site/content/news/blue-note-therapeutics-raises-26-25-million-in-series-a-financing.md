@@ -20,27 +20,27 @@ Blue Note holds licensing agreements with several leading cancer centers and uni
 
 In 2020, Blue Note launched COVID Cancer Care, a digital wellness program intended to help adults with cancer cope with stress and anxiety related to the COVID-19 pandemic. 
 
-**About BNT001**\
+**About BNT001**
 BNT001 received Breakthrough Device Designation from the FDA in June 2020 for the treatment of symptoms of anxiety and depression related to cancer in adult patients. BNT001 is not cleared by the FDA for any indication. Early access to the COVID Cancer Care program was made possible under the FDA’s enforcement policy for digital health devices for treating psychiatric disorders during the COVID-19 public health emergency which was announced in April 2020.  For more information, visit [www.bluenotetherapeutics.com](http://www.bluenotetherapeutics.com). 
 
 &nbsp;
 
-**About Cancer-Related Distress**\
+**About Cancer-Related Distress**
 There are about 18 million cancer patients and survivors in the United States today.1 Nearly half of all cancer patients experience psychosocial distress, anxiety, or depression.2 If left untreated, these feelings can lower a cancer survivors’ quality of life and may negatively affect survival.3 The National Comprehensive Cancer Network (NCCN) has established guidelines for the delivery of mental health care services in oncology, which include screening patients for signs of distress and implementing a treatment plan to address these needs with a mental health care specialist.4 Unfortunately, fewer than half of patients who experience cancer-related distress, which can be defined as any unpleasant feeling, emotion, or experience that affects a patient’s quality of life or ability to cope with cancer diagnosis and treatment, are referred to mental health care specialists.5,6 Prescription digital therapeutics designed to treat cancer-related distress can help close this cancer treatment gap.
 
 &nbsp;
 
-**About Blue Note Therapeutics**\
+**About Blue Note Therapeutics**
 Blue Note Therapeutics is a prescription digital therapeutics company singularly dedicated to patients suffering from cancer-related distress. We aim to make mental health care accessible to any cancer patient, at any time, by merging deep scientific and clinical expertise, neuroscience, and digital innovation. Working closely with  cancer research and patient communities, we are developing clinically validated prescription digital therapeutics to help reduce anxiety, depression, and other forms of cancer-related distress. For more information, visit [www.bluenotetherapeutics.com](http://www.bluenotetherapeutics.com). 
 
 &nbsp;
 
-**About JAZZ Venture Partners**\
+**About JAZZ Venture Partners**
 JAZZ Venture Partners invests in companies that extend the boundaries of human performance - improving how we live, learn, work, play, and experience the world. JAZZ seeks breakthroughs at the frontiers of technology and science, such as advances in artificial intelligence, neurobiology, augmented reality, and closed-loop human-computer systems. JAZZ portfolio companies are unlocking human potential in health, mind-body wellness, accelerated learning and training, sports, entertainment, and the enterprise. For more information, visit [www.jazzvp.com](http://www.jazzvp.com).
 
 &nbsp;
 
-**About Prescription Digital Therapeutics (PDTs)**\
+**About Prescription Digital Therapeutics (PDTs)**
 Prescription digital therapeutics (PDTs) are a therapeutic class of medical devices that use U.S. Food and Drug Administration (FDA) approvable software to treat diseases and conditions, such as anxiety and depression related to cancer diagnosis and treatment. Similar to prescription medicines, PDTs must demonstrate safety and efficacy in randomized clinical trials prior to their approval by the FDA.
 
 
@@ -52,7 +52,7 @@ stefanie.tuck@porternovelli.com
 
 - - -
 
-****References
+###### References
 1 American Cancer Society. Cancer Facts & Figures 2020. <https://www.cancer.org/content/dam/cancer-org/research/cancer-facts-and-statistics/annual-cancer-facts-and-figures/2020/cancer-facts-and-figures-2020.pdf>.\
 2 Mehnert A, Hartung TJ, Friedrich M, et al. One in two cancer patients is significantly distressed: Prevalence and indicators of distress. Psychooncology. 2018;27:75-82.\
 3 Centers for Disease Control and Prevention. Anxiety and Depression Medicine Use Among Cancer Survivors. <https://www.cdc.gov/cancer/dcpc/research/articles/anxiety_dep_med_survivors.htm>. 
