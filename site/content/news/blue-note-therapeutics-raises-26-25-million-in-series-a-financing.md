@@ -8,7 +8,7 @@ description: Company announces closing of Series A financing to scale the
 
 - - -
 
-San Francisco, CA – (March 3, 2021) – Blue Note Therapeutics, Inc., today announced the closing of a Series A financing round of $26.25 million. Proceeds will allow the company to scale the organization and fund near-term clinical trials of its lead prescription digital therapeutic (PDT), which will potentially improve the treatment of cancer. The capital will also support the development of Blue Note’s pipeline assets. The Series A financing was led by JAZZ Venture Partners and joined by Summer VC.
+San Francisco, CA – (March 3, 2021) – Blue Note Therapeutics, Inc., today announced the closing of a Series A financing round of $26.25 million. Proceeds will allow the company to scale the organization and fund near-term clinical trials of its lead prescription digital therapeutic (PDT), which will potentially improve the treatment of cancer. The capital will also support the development of Blue Note’s pipeline assets. The Series A financing was led by JAZZ Venture Partners and x.
 
 Blue Note Therapeutics is dedicated to serving patients suffering from cancer-related distress. Working closely with leading cancer research centers and patient communities, Blue Note is developing clinically validated medical devices designed to improve overall cancer outcomes. These products will help address the specific psychosocial needs of oncology patients and may reduce comorbidities such as anxiety, depression, and fear of cancer recurrence.
 
@@ -28,7 +28,7 @@ BNT001 received Breakthrough Device Designation from the FDA in June 2020 for th
 &nbsp;
 
 **About Cancer-Related Distress**\ 
-There are about 18 million cancer patients and survivors in the United States today [1]. Nearly half of all cancer patients experience psychosocial distress, anxiety, or depression [2]. If left untreated, these feelings can lower a cancer survivors’ quality of life and may negatively affect survival [3]. The National Comprehensive Cancer Network (NCCN) has established guidelines for the delivery of mental health care services in oncology, which include screening patients for signs of distress and implementing a treatment plan to address these needs with a mental health care specialist [4]. Unfortunately, fewer than half of patients who experience cancer-related distress, which can be defined as any unpleasant feeling, emotion, or experience that affects a patient’s quality of life or ability to cope with cancer diagnosis and treatment, are referred to mental health care specialists [5,6]. Prescription digital therapeutics designed to treat cancer-related distress can help close this cancer treatment gap.
+There are about 18 million cancer patients and survivors in the United States today \[1]. Nearly half of all cancer patients experience psychosocial distress, anxiety, or depression \[2]. If left untreated, these feelings can lower a cancer survivors’ quality of life and may negatively affect survival \[3]. The National Comprehensive Cancer Network (NCCN) has established guidelines for the delivery of mental health care services in oncology, which include screening patients for signs of distress and implementing a treatment plan to address these needs with a mental health care specialist \[4]. Unfortunately, fewer than half of patients who experience cancer-related distress, which can be defined as any unpleasant feeling, emotion, or experience that affects a patient’s quality of life or ability to cope with cancer diagnosis and treatment, are referred to mental health care specialists \[5,6]. Prescription digital therapeutics designed to treat cancer-related distress can help close this cancer treatment gap.
 
 &nbsp;
 
@@ -47,8 +47,8 @@ Prescription digital therapeutics (PDTs) are a therapeutic class of medical devi
 
 &nbsp;
 
-_Media Contact_
-Porter Novelli  
+*Media Contact*
+Porter Novelli\
 Stefanie Tuck 
 stefanie.tuck@porternovelli.com 
 (978) 390-1394 
