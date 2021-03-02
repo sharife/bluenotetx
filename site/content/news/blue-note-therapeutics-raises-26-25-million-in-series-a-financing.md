@@ -26,23 +26,26 @@ BNT001 received Breakthrough Device Designation from the FDA in June 2020 for th
 **About Cancer-Related Distress**\
 There are about 18 million cancer patients and survivors in the United States today.1 Nearly half of all cancer patients experience psychosocial distress, anxiety, or depression.2 If left untreated, these feelings can lower a cancer survivors’ quality of life and may negatively affect survival.3 The National Comprehensive Cancer Network (NCCN) has established guidelines for the delivery of mental health care services in oncology, which include screening patients for signs of distress and implementing a treatment plan to address these needs with a mental health care specialist.4 Unfortunately, fewer than half of patients who experience cancer-related distress, which can be defined as any unpleasant feeling, emotion, or experience that affects a patient’s quality of life or ability to cope with cancer diagnosis and treatment, are referred to mental health care specialists.5,6 Prescription digital therapeutics designed to treat cancer-related distress can help close this cancer treatment gap.
 
-\
 **About Blue Note Therapeutics**\
 Blue Note Therapeutics is a prescription digital therapeutics company singularly dedicated to patients suffering from cancer-related distress. We aim to make mental health care accessible to any cancer patient, at any time, by merging deep scientific and clinical expertise, neuroscience, and digital innovation. Working closely with  cancer research and patient communities, we are developing clinically validated prescription digital therapeutics to help reduce anxiety, depression, and other forms of cancer-related distress. For more information, visit [www.bluenotetherapeutics.com](http://www.bluenotetherapeutics.com). 
 
-\
-**About JAZZ Venture Partners**
 
+
+**About JAZZ Venture Partners**\
 JAZZ Venture Partners invests in companies that extend the boundaries of human performance - improving how we live, learn, work, play, and experience the world. JAZZ seeks breakthroughs at the frontiers of technology and science, such as advances in artificial intelligence, neurobiology, augmented reality, and closed-loop human-computer systems. JAZZ portfolio companies are unlocking human potential in health, mind-body wellness, accelerated learning and training, sports, entertainment, and the enterprise. For more information, visit [www.jazzvp.com](http://www.jazzvp.com).
 
-About Prescription Digital Therapeutics (PDTs)
-
+**About Prescription Digital Therapeutics (PDTs)**\
 Prescription digital therapeutics (PDTs) are a therapeutic class of medical devices that use U.S. Food and Drug Administration (FDA) approvable software to treat diseases and conditions, such as anxiety and depression related to cancer diagnosis and treatment. Similar to prescription medicines, PDTs must demonstrate safety and efficacy in randomized clinical trials prior to their approval by the FDA.
 
+
 *Media Contact*
+
 Porter Novelli
-Stefanie Tuck
+
+Stefanie Tuck[](mailto:stefanie.tuck@porternovelli.com)
+
 [stefanie.tuck@porternovelli.com](mailto:stefanie.tuck@porternovelli.com)  
+
 (978) 390-1394
 
 - - -
