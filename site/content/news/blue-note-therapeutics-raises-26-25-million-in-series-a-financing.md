@@ -45,10 +45,10 @@ JAZZ Venture Partners invests in companies that extend the boundaries of human p
 **About Prescription Digital Therapeutics (PDTs)**
 Prescription digital therapeutics (PDTs) are a therapeutic class of medical devices that use U.S. Food and Drug Administration (FDA) approvable software to treat diseases and conditions, such as anxiety and depression related to cancer diagnosis and treatment. Similar to prescription medicines, PDTs must demonstrate safety and efficacy in randomized clinical trials prior to their approval by the FDA.
 
-_Media Contact_ <br>
-Porter Novelli <br>
-Stefanie Tuck <br>
-stefanie.tuck@porternovelli.com <br>
+_Media Contact_ <br/>
+Porter Novelli <br/>
+Stefanie Tuck <br/>
+stefanie.tuck@porternovelli.com <br/>
 (978) 390-1394
 
 &nbsp;
