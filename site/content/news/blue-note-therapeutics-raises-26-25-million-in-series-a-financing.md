@@ -8,7 +8,7 @@ description: Company announces closing of Series A financing to scale the
 
 - - -
 
-San Francisco, CA – (March 3, 2021) – Blue Note Therapeutics, Inc., today announced the closing of a Series A financing round of $26.25 million. Proceeds will allow the company to scale the organization and fund near-term clinical trials of its lead prescription digital therapeutic (PDT), which will potentially improve the treatment of cancer. The capital will also support the development of Blue Note’s pipeline assets. The Series A financing was led by JAZZ Venture Partners and x.
+San Francisco, CA – (March 3, 2021) – Blue Note Therapeutics, Inc., today announced the closing of a Series A financing round of $26.25 million. Proceeds will allow the company to scale the organization and fund near-term clinical trials of its lead prescription digital therapeutic (PDT), which will potentially improve the treatment of cancer. The capital will also support the development of Blue Note’s pipeline assets. The Series A financing was led by JAZZ Venture Partners and joined by Summer VC.
 
 Blue Note Therapeutics is dedicated to serving patients suffering from cancer-related distress. Working closely with leading cancer research centers and patient communities, Blue Note is developing clinically validated medical devices designed to improve overall cancer outcomes. These products will help address the specific psychosocial needs of oncology patients and may reduce comorbidities such as anxiety, depression, and fear of cancer recurrence.
 
