@@ -51,17 +51,15 @@ Prescription digital therapeutics (PDTs) are a therapeutic class of medical devi
 
 *Media Contact*
 
-
 Porter Novelli
-
 
 Stefanie Tuck
 
-
 stefanie.tuck@porternovelli.com
 
-
 (978) 390-1394
+
+
 
 - - -
 
