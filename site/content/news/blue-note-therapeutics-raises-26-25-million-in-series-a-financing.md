@@ -4,23 +4,19 @@ date: 2021-03-02T21:49:22.619Z
 description: Company announces closing of Series A financing to scale the
   organization and support lead candidate, BNT001.
 ---
-<!--StartFragment-->
-
 * Proceeds allow Blue Note to scale the organization and fund clinical trials of BNT001, which received FDA Breakthrough Device Designation in June 2020
+
+- - -
 
 San Francisco, CA – (March 3, 2021) – Blue Note Therapeutics, Inc., today announced the closing of a Series A financing round of $26.25 million. Proceeds will allow the company to scale the organization and fund near-term clinical trials of its lead prescription digital therapeutic (PDT), which will potentially improve the treatment of cancer. The capital will also support the development of Blue Note’s pipeline assets. The Series A financing was led by JAZZ Venture Partners and joined by Summer VC.
 
 Blue Note Therapeutics is dedicated to serving patients suffering from cancer-related distress. Working closely with leading cancer research centers and patient communities, Blue Note is developing clinically validated medical devices designed to improve overall cancer outcomes. These products will help address the specific psychosocial needs of oncology patients and may reduce comorbidities such as anxiety, depression, and fear of cancer recurrence.
-
-
 
 “When a patient receives a cancer diagnosis, the treatment and management of physical disease is prioritized. However, there remains a significant unmet need to treat the psychosocial symptoms of those who may experience distress related to their cancer diagnosis, treatment, or survivorship,” said Dr. Andrew Firlik, Co-Founder and Managing Partner of JAZZ Venture Partners. “Blue Note devices present an opportunity to expand access for all Americans to the standard of care in top cancer centers and solve the acute supply and demand mismatch between patient need and available care providers. We are pleased to join Blue Note Therapeutics in this Series A round to help bring this promising technology to cancer patients in need.”\
 \
 Blue Note holds licensing agreements with several leading cancer centers and universities, including the University of Miami, Massachusetts General Hospital, and Memorial Sloan Kettering Cancer Center, to digitize evidence-based, cancer-specific therapies.
 
 “Our mission is to ease the burden of cancer.  We are committed to expanding access to evidence-based, cancer-specific treatments from the world’s top cancer centers to every cancer patient, in their time of need,” said Geoffrey Eich, CEO of Blue Note Therapeutics.
-
-
 
 In 2020, Blue Note launched COVID Cancer Care, a digital wellness program intended to help adults with cancer cope with stress and anxiety related to the COVID-19 pandemic. 
 
@@ -43,17 +39,13 @@ About Prescription Digital Therapeutics (PDTs)
 
 Prescription digital therapeutics (PDTs) are a therapeutic class of medical devices that use U.S. Food and Drug Administration (FDA) approvable software to treat diseases and conditions, such as anxiety and depression related to cancer diagnosis and treatment. Similar to prescription medicines, PDTs must demonstrate safety and efficacy in randomized clinical trials prior to their approval by the FDA.
 
-
-
 Media Contact
-
 Porter Novelli
-
 Stefanie Tuck
-
 [stefanie.tuck@porternovelli.com](mailto:stefanie.tuck@porternovelli.com) 
+(978) 390-1394
 
-(978) 390-1394\
+---
 \
 References\
 1 American Cancer Society. Cancer Facts & Figures 2020. <https://www.cancer.org/content/dam/cancer-org/research/cancer-facts-and-statistics/annual-cancer-facts-and-figures/2020/cancer-facts-and-figures-2020.pdf>.\
@@ -64,7 +56,5 @@ References\
 5 OncoLink. What is Cancer Related Distress? <https://www.oncolink.org/support/practical-and-emotional/coping-communication-concerns/what-is-cancer-related-distress>.
 
 6 American Cancer Society. Cancer Treatment & Survivorship Facts & Figures 2019-2021. <https://www.cancer.org/content/dam/cancer-org/research/cancer-facts-and-statistics/cancer-treatment-and-survivorship-facts-and-figures/cancer-treatment-and-survivorship-facts-and-figures-2019-2021.pdf>.
-
-
 
 <!--EndFragment-->
