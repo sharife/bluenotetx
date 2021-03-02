@@ -4,7 +4,7 @@ date: 2021-03-03T22:28:13.260Z
 description: Company announces closing of Series A financing to scale the
   organization and support lead candidate, BNT001.
 ---
-* Proceeds allow Blue Note to scale the organization and fund clinical trials of BNT001, which received FDA Breakthrough Device Designation in June 2020
+* Proceeds allow Blue Note to scale the organization and fund clinical trials of BNT001, which received FDA Breakthrough Device Designation in June 2020.
 
 - - -
 
