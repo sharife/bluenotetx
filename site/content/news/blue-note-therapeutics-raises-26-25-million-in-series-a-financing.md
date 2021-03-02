@@ -1,6 +1,6 @@
 ---
 title: Blue Note Therapeutics Raises $26.25 Million in Series A Financing
-date: 2021-03-02T21:49:22.619Z
+date: 2021-03-03T22:28:13.260Z
 description: Company announces closing of Series A financing to scale the
   organization and support lead candidate, BNT001.
 ---
