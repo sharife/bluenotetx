@@ -16,7 +16,7 @@ Blue Note Therapeutics is dedicated to serving patients suffering from cancer-re
 
 Blue Note holds licensing agreements with several leading cancer centers and universities, including the University of Miami, Massachusetts General Hospital, and Memorial Sloan Kettering Cancer Center, to digitize evidence-based, cancer-specific therapies.
 
-“Our mission is to ease the burden of cancer.  We are committed to expanding access to evidence-based, cancer-specific treatments from the world’s top cancer centers to every cancer patient, in their time of need,” said Geoffrey Eich, CEO of Blue Note Therapeutics.
+“Our mission is to ease the burden of cancer. We are committed to expanding access to evidence-based, cancer-specific treatments from the world’s top cancer centers to every cancer patient, in their time of need,” said Geoffrey Eich, CEO of Blue Note Therapeutics.
 
 In 2020, Blue Note launched COVID Cancer Care, a digital wellness program intended to help adults with cancer cope with stress and anxiety related to the COVID-19 pandemic. 
 
@@ -40,13 +40,11 @@ JAZZ Venture Partners invests in companies that extend the boundaries of human p
 
 Prescription digital therapeutics (PDTs) are a therapeutic class of medical devices that use U.S. Food and Drug Administration (FDA) approvable software to treat diseases and conditions, such as anxiety and depression related to cancer diagnosis and treatment. Similar to prescription medicines, PDTs must demonstrate safety and efficacy in randomized clinical trials prior to their approval by the FDA.
 
-*Media Contact*  
-Porter Novelli  
-Stefanie Tuck  
-stefanie.tuck@porternovelli.com  
+*Media Contact*\
+Porter Novelli\
+Stefanie Tuck\
+stefanie.tuck@porternovelli.com\
 (978) 390-1394  
-
-
 
 - - -
 
