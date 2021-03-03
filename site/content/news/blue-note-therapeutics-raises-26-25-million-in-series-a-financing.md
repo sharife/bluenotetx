@@ -56,6 +56,6 @@ stefanie.tuck@porternovelli.com
 1. American Cancer Society. Cancer Facts & Figures 2020. <https://www.cancer.org/content/dam/cancer-org/research/cancer-facts-and-statistics/annual-cancer-facts-and-figures/2020/cancer-facts-and-figures-2020.pdf>.
 2. Mehnert A, Hartung TJ, Friedrich M, et al. One in two cancer patients is significantly distressed: Prevalence and indicators of distress. Psychooncology. 2018;27:75-82.
 3. Centers for Disease Control and Prevention. Anxiety and Depression Medicine Use Among Cancer Survivors. <https://www.cdc.gov/cancer/dcpc/research/articles/anxiety_dep_med_survivors.htm>. 
-4. National Comprehensive Cancer Network. Distress Management, Version 3.2019, NCCN Clinical Practice Guidelines in Oncology. <https://jnccn.org/view/journals/jnccn/17/10/article-p1229.xml>.\
+4. National Comprehensive Cancer Network. Distress Management, Version 3.2019, NCCN Clinical Practice Guidelines in Oncology. <https://jnccn.org/view/journals/jnccn/17/10/article-p1229.xml>.
 5. OncoLink. What is Cancer Related Distress? <https://www.oncolink.org/support/practical-and-emotional/coping-communication-concerns/what-is-cancer-related-distress>.
 6. American Cancer Society. Cancer Treatment & Survivorship Facts & Figures 2019-2021. <https://www.cancer.org/content/dam/cancer-org/research/cancer-facts-and-statistics/cancer-treatment-and-survivorship-facts-and-figures/cancer-treatment-and-survivorship-facts-and-figures-2019-2021.pdf>.
