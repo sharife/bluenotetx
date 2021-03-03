@@ -20,7 +20,6 @@ Blue Note holds licensing agreements with several leading cancer centers and uni
 
 In 2020, Blue Note launched COVID Cancer Care, a digital wellness program intended to help adults with cancer cope with stress and anxiety related to the COVID-19 pandemic. 
 
-
 **About BNT001**
 
 BNT001 received Breakthrough Device Designation from the FDA in June 2020 for the treatment of symptoms of anxiety and depression related to cancer in adult patients. BNT001 is not cleared by the FDA for any indication. Early access to the COVID Cancer Care program was made possible under the FDA’s enforcement policy for digital health devices for treating psychiatric disorders during the COVID-19 public health emergency which was announced in April 2020.  For more information, visit www.bluenotetherapeutics.com. 
@@ -41,13 +40,13 @@ JAZZ Venture Partners invests in companies that extend the boundaries of human p
 
 Prescription digital therapeutics (PDTs) are a therapeutic class of medical devices that use U.S. Food and Drug Administration (FDA) approvable software to treat diseases and conditions, such as anxiety and depression related to cancer diagnosis and treatment. Similar to prescription medicines, PDTs must demonstrate safety and efficacy in randomized clinical trials prior to their approval by the FDA.
 
-*Media Contact* 
-Porter Novelli 
-Stefanie Tuck 
-stefanie.tuck@porternovelli.com 
-(978) 390-1394
+*Media Contact*  
+Porter Novelli  
+Stefanie Tuck  
+stefanie.tuck@porternovelli.com  
+(978) 390-1394  
 
-&nbsp;
+
 
 - - -
 
