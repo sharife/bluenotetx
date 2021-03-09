@@ -100,8 +100,8 @@ collections: # A list of collections the CMS should be able to edit
                   - {label: Name, name: name, widget: string}
                   - {label: Title, name: title, widget: string}
                   - {label: Image, name: image, widget: image}
-                  - {label: Link, name: link, widget: string}
-          - label: Board
+                  - {label: Link, name: link, widget: string, required: false}
+          - label: Board of Directors
             name: board
             widget: object
             fields:
@@ -114,7 +114,21 @@ collections: # A list of collections the CMS should be able to edit
                   - {label: Name, name: name, widget: string}
                   - {label: Title, name: title, widget: string}
                   - {label: Image, name: image, widget: image}
-                  - {label: Link, name: link, widget: string}
+                  - {label: Link, name: link, widget: string, required: false}
+          - label: Advisory Board
+            name: advisors
+            widget: object
+            fields:
+              - {label: Heading, name: heading, widget: string}
+              - {label: Text, name: description, widget: text, required: false}
+              - label: Bios
+                name: items
+                widget: list
+                fields:
+                  - {label: Name, name: name, widget: string}
+                  - {label: Title, name: title, widget: string}
+                  - {label: Image, name: image, widget: image}
+                  - {label: Link, name: link, widget: string, required: false}
           - label: Partners
             name: partners
             widget: object
