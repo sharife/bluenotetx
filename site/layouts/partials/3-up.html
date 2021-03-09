@@ -19,7 +19,7 @@
 						{{ if .link }}<a href="{{ .link }}"><img src="/img/icon-linkedin.svg" class="mw1 br0" /></a>
 						{{ end }}
 
-						{{ if .exlink }}<a href="{{ .exlink }}">Bio</a>
+						{{ if .exlink }}<a href="{{ .exlink }}" class="f6 b primary link small" target="_blank">Bio</a>
 						{{ end }}
 						
 					</div>
@@ -33,3 +33,11 @@
 		</div>
 	</div>
 </div>
+
+
+<style type="text/css">
+	a[target="_blank"]::after {
+  content: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAQElEQVR42qXKwQkAIAxDUUdxtO6/RBQkQZvSi8I/pL4BoGw/XPkh4XigPmsUgh0626AjRsgxHTkUThsG2T/sIlzdTsp52kSS1wAAAABJRU5ErkJggg==);
+  margin: 0 3px 0 5px;
+}
+</style>
