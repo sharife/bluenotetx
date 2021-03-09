@@ -37,6 +37,10 @@ people:
           title: Scientific Advisor
           image: /img/profile-dianne2.png
           link: https://www.linkedin.com/in/dianne-shumay-phd-7b802a4/
+        - name: Jen Feng
+          title: Senior Product Manager
+          image: /img/profile-jenfeng.png
+          link: https://www.linkedin.com/in/jenfeng/
 board:
     heading: Board of Directors
     description: 
@@ -54,7 +58,7 @@ board:
           image: /img/profile-geoff.png
           link: https://www.linkedin.com/in/geoffreyeich/
 advisors:
-    heading: Advisory Board
+    heading: Board of Advisors
     description: 
     items:
         - name: Michael Antoni
