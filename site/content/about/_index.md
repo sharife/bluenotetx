@@ -60,15 +60,15 @@ advisors:
         - name: Michael Antoni
           title: Sylvester Comprehensive Cancer Center
           image: /img/profile-mikeantoni.png
-          link: 
+          exlink: https://umiamihealth.org/sylvester-comprehensive-cancer-center/research/faculty/michael-antoni-phd
         - name: Patricia Ganz
           title: UCLA Fielding School of Public Health
           image: /img/profile-patriciaganz.png
-          link: 
+          exlink: https://www.uclahealth.org/patricia-ganz
         - name: Lidia Schapira
           title: Stanford University Medical Center
           image: /img/profile-lidiaschapira.png
-          link: 
+          exlink: https://profiles.stanford.edu/lidia-schapira
 partners:
     heading: We Can't Do This Alone
     description: Blue Note Therapeutics is honored to work with the National Comprehensive Cancer Network (NCCN) and other leading cancer care organizations in our quest to help cancer patients live better.
