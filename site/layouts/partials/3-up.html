@@ -16,7 +16,8 @@
 					
 						{{ if .title }}<p class="f6 small mb0">{{ .title }}</p>{{ end }}
 					
-						<a href="{{ .link }}"><img src="/img/icon-linkedin.svg" class="mw1 br0" /></a>
+						{{ if .link }}<a href="{{ .link }}"><img src="/img/icon-linkedin.svg" class="mw1 br0" /></a>
+						{{ end }}
 						
 					</div>
 					{{ else }}
