@@ -33,8 +33,8 @@ people:
           title: Patient Engagement
           image: /img/profile-laura.png
           link: https://www.linkedin.com/in/lbchavaree/
-        - name: Dianne Shumay
-          title: Scientific Advisor
+        - name: Dianne Shumay, PhD
+          title: Clinical Psycho Oncology
           image: /img/profile-dianne2.png
           link: https://www.linkedin.com/in/dianne-shumay-phd-7b802a4/
         - name: Jen Feng
@@ -45,7 +45,7 @@ board:
     heading: Board of Directors
     description: 
     items:
-        - name: Andrew Firlik
+        - name: Andrew Firlik, MD
           title: Jazz Venture Partners
           image: /img/profile-andrew.png
           link: https://www.linkedin.com/in/andrew-firlik-b97a0977/
@@ -61,15 +61,15 @@ advisors:
     heading: Board of Advisors
     description: 
     items:
-        - name: Michael Antoni
+        - name: Michael Antoni, MD, PhD
           title: Sylvester Comprehensive Cancer Center
           image: /img/profile-mikeantoni.png
           exlink: https://umiamihealth.org/sylvester-comprehensive-cancer-center/research/faculty/michael-antoni-phd
-        - name: Patricia Ganz
-          title: UCLA Fielding School of Public Health
+        - name: Patricia Ganz, MD, PhD
+          title: UCLA Jonsson Comprehensive Cancer Center
           image: /img/profile-patriciaganz.png
           exlink: https://www.uclahealth.org/patricia-ganz
-        - name: Lidia Schapira
+        - name: Lidia Schapira, MD, PhD
           title: Stanford University Medical Center
           image: /img/profile-lidiaschapira.png
           exlink: https://profiles.stanford.edu/lidia-schapira
