@@ -61,15 +61,15 @@ advisors:
     heading: Board of Advisors
     description: 
     items:
-        - name: Michael Antoni, MD, PhD
+        - name: Michael Antoni, PhD
           title: Sylvester Comprehensive Cancer Center
           image: /img/profile-mikeantoni.png
           exlink: https://umiamihealth.org/sylvester-comprehensive-cancer-center/research/faculty/michael-antoni-phd
-        - name: Patricia Ganz, MD, PhD
+        - name: Patricia Ganz, MD
           title: UCLA Jonsson Comprehensive Cancer Center
           image: /img/profile-patriciaganz.png
           exlink: https://www.uclahealth.org/patricia-ganz
-        - name: Lidia Schapira, MD, PhD
+        - name: Lidia Schapira, MD
           title: Stanford University Medical Center
           image: /img/profile-lidiaschapira.png
           exlink: https://profiles.stanford.edu/lidia-schapira
