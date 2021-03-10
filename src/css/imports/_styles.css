@@ -31,6 +31,9 @@
   opacity: 0;
   padding-top: 10px;
 }
+#cover-bg {
+  top:-102px;
+}
 
 
 
@@ -40,6 +43,9 @@
   }
   #nav-p {
     display: none;
+  }
+  #cover-bg {
+    padding-top:102px;
   }
 }
 
@@ -51,9 +57,6 @@
 	#b-logos, #line-c, #line-h {
 		display: inline;
 	}
-  #cover-bg {
-    top:-102px;
-  }
 }
 
 

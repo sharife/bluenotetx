@@ -1,4 +1,4 @@
-<div class="cover w-100 relative z-0 fade-1" style="background-image: url({{.bg}});" id="cover-bg">
+<div class="cover w-100 relative z-0 fade-1 {{ if .imageUrl }} bg-transp {{ else }} bg-primary {{ end }}" style="background-image: url({{.bg}});" id="cover-bg">
   <div>
     <div class="flex-ns mhn2-l">
       {{ if .imageUrl }}
@@ -25,24 +25,24 @@
       </div>
       {{ else }}
 
-      <div class="mw6 center tc pt2 pt4-l pt0-m mb4 mb0-l ph4 pb4" style="border-bottom: 3px dashed var(--primary);">
+      <div class="w-100 tc pt2 pt4-l pt0-m mb4 mb0-l ph4 pb4 bg-primary white">
           <div class="mt5-ns">
-            <h1 class="f2 f1-l b di lh-title primary">
+            <h1 class="f2 f1-l b di lh-title">
               {{.title}}
             </h1>
           </div>
           
             {{ if .subtitle }}
-            <div class="mb2">
-              <h3 class="f4 di lh-title mw6 black">
+            <div class="mb2 mw6 center">
+              <h3 class="f4 di lh-title mw6">
                 {{.subtitle}}
               </h3>
             </div>
             {{ end }}
 
             {{ if .intro }}
-            <div>
-              <p class="di mw6 black">
+            <div class="mw6 center pt2" style="border-top: 1.5px dashed white;">
+              <p class="di">
                 {{.intro}}
               </p>
             </div>
