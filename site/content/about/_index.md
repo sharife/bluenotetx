@@ -1,10 +1,13 @@
 ---
-title: "Creating a New Way Forward"
+title: Creating a New Way Forward
+blurb:
+  text: Working closely with leading cancer centers, community oncology clinics,
+    and teams of patients, Blue Note is developing clinically validated
+    prescription digital therapeutics to help reduce anxiety, depression, and
+    other distress related to cancer.
+image: /img/hero-journey.svg
 cta: Learn more
 link: values
-image: /img/hero-journey.svg
-blurb:
-    text: "Working closely with leading cancer centers, community oncology clinics, and teams of patients, Blue Note is developing clinically validated prescription digital therapeutics to help reduce anxiety, depression, and other distress related to cancer."
 people:
     heading: Leadership
     description: 
@@ -77,16 +80,19 @@ advisors:
           exlink: https://profiles.stanford.edu/lidia-schapira
           researchlink: https://pubmed.ncbi.nlm.nih.gov/?term=schapira+lidia+&filter=dates.1985%2F1%2F1-2020%2F12%2F4
 partners:
-    heading: We Can't Do This Alone
-    description: Blue Note Therapeutics is honored to work with the National Comprehensive Cancer Network (NCCN) and other leading cancer care organizations in our quest to help cancer patients live better.
-    items:
-        - image: /img/logo-ncnn.svg
-        - image: /img/logo-MSK.png
-        - image: /img/logo-Sylvester.png
-        - image: /img/logo-CSC.png
+  heading: We Can't Do This Alone
+  description: Blue Note Therapeutics is honored to work with the National
+    Comprehensive Cancer Network (NCCN) and other leading cancer care
+    organizations in our quest to help cancer patients live better.
+  items:
+    - image: /img/logo-ncnn.svg
+    - image: /img/logo-MSK.png
+    - image: /img/logo-Sylvester.png
+    - image: /img/logo-CSC.png
 pipeline:
   heading: Our Pipeline
-  description: Blue Note's products will serve all cancer patients, from early stage through survivorship, in both the in-patient and out-patient settings.
+  description: Blue Note's products will serve all cancer patients, from early
+    stage through survivorship, in both the in-patient and out-patient settings.
   items:
     - name: BNT001
       stage: Early - Mid Stage
@@ -101,5 +107,3 @@ pipeline:
       stage: Survivorship
       status: 0
 ---
-
-
