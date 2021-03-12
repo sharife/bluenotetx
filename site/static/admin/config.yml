@@ -129,6 +129,7 @@ collections: # A list of collections the CMS should be able to edit
                   - {label: Title, name: title, widget: string}
                   - {label: Image, name: image, widget: image}
                   - {label: External Bio, name: exlink, widget: string, required: false}
+                  - {label: Research Link, name: researchlink, widget: string, required: false}
           - label: Partners
             name: partners
             widget: object
