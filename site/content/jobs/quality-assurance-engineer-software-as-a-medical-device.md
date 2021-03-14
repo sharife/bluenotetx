@@ -75,4 +75,4 @@ While performing the duties of this Job, the employee may be regularly required 
 
 Blue Note Therapeutics is a prescription digital therapeutics company singularly dedicated to transforming mental health care for cancer patients. We aim to make mental health care available to any cancer patient at any time by merging deep scientific and clinical expertise, neuroscience, and digital innovation. Working closely with leading cancer centers, community oncology clinics, and teams of patients, Blue Note is developing clinically validated prescription digital therapeutics to help reduce anxiety, depression and other distress related to cancer.
 
-Click here to apply for this opportunity [Quality Assurance Engineer](http://blue-note-therapeutics-qua-asu-eng-11046384.meet.wendy.ai/).
+To apply, please send your resume to us at [jobs@bluenotetx.com](mailto:jobs@bluenotetx.com).  Talk to you soon!
