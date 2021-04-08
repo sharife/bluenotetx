@@ -79,6 +79,11 @@ advisors:
           image: /img/profile-lidiaschapira.png
           exlink: https://profiles.stanford.edu/lidia-schapira
           researchlink: https://pubmed.ncbi.nlm.nih.gov/?term=schapira+lidia+&filter=dates.1985%2F1%2F1-2020%2F12%2F4
+        - name: Marcus Neubauer, MD
+          title: The US Oncology Network
+          image: /img/profile-marcus-neubauer.png
+          exlink: https://www.linkedin.com/in/marcus-neubauer-md-967b3878/
+          researchlink: https://pubmed.ncbi.nlm.nih.gov/?term=neubauer+marcus+&filter=dates.1985%2F1%2F1-2020%2F12%2F4
 partners:
   heading: We Can't Do This Alone
   description: Blue Note Therapeutics is honored to work with the National
