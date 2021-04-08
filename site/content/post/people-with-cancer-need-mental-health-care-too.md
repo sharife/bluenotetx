@@ -1,6 +1,6 @@
 ---
 title: People with Cancer Need Mental Health Care, Too
-date: 2021-04-14T18:00:19.877Z
+date: 2021-04-14T18:16:13.422Z
 description: "To treat cancer effectively, we need to treat more than just the
   physical disease. We need to treat the psychosocial effects of cancer, as
   well. Read on to learn how patient advisors are inspiring and informing Blue
