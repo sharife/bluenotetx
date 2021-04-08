@@ -17,6 +17,6 @@ As Justin continues to manage the mental health impacts of his own cancer diagno
 
 To treat cancer most effectively, we need to treat more than just the physical disease. We need to treat the psychosocial symptoms and effects of cancer, as well. One way we can help close this treatment gap is by continuing to draw more attention to it. Thank you Justin and Cancer Today for doing just that. 
 
-Blue Note is always looking for additional patients to provide input on its digital therapeutic programs. If you are a patient and you’d like to be part of helping to develop future mental health solutions for other patients, please contact [customersupport@bluenotetx.com](<customersupport@bluenotetx.com >). 
+Blue Note is always looking for additional patients to provide input on its digital therapeutic programs. If you are a patient and you’d like to be part of helping to develop future mental health solutions for other patients, please contact customersupport@bluenotetx.com.  [](<customersupport@bluenotetx.com >)
 
 If you or someone you know is experiencing increased distress related to COVID-19 and having cancer, COVID Cancer Care is a digital wellness program available for FREE from Blue Note Therapeutics. Learn more at [CovidCancerCare.com](https://covidcancercare.com/).
