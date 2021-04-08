@@ -2,9 +2,9 @@
 title: Moving Forward - A Blue Note Therapeutics Oncology & Psycho Oncology
   Expert Panel Discussion
 date: 2021-04-06T11:50:01.467Z
-description: "In early 2021, Blue Note Therapeutics was joined by Dr. Patricia
+description: In early 2021, Blue Note Therapeutics was joined by Dr. Patricia
   Ganz, MD, Dr. Areej El-Jawahri, MD, and Dr. Michael Antoni, PhD, to discuss
-  advances in the field of psycho-oncology. "
+  advances in the field of psycho-oncology.
 ---
 **Moving Forward - A Blue Note Therapeutics Oncology & Psycho Oncology Expert Panel Discussion**
 
