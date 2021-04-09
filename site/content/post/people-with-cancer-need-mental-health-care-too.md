@@ -1,8 +1,9 @@
 ---
 title: People with Cancer Need Mental Health Care, Too
 date: 2021-04-14T18:16:13.422Z
-description: "Patient advisors inspire and inform Blue Note. For one, that means
-  advocating for testicular cancer awareness and mental health support. "
+description: "Patient advisors inspire and inform the work of Blue Note. For
+  one, sharing his personal experience with testicular cancer, he’s committed to
+  advocating for more cancer awareness and mental health support. "
 author: Laura Brown Chavaree
 image: img/cancer-stress.svg
 ---
