@@ -1,6 +1,6 @@
 ---
 title: "Quality Assurance Engineer - Software as a Medical Device "
-date: 2021-01-19T00:38:46.512Z
+date: 2021-04-13T12:25:01.585Z
 ---
 Blue Note Therapeutics is a prescription digital therapeutics company singularly dedicated to transforming mental health care for cancer patients. We aim to make mental health care available to any cancer patient at any time by merging deep scientific and clinical expertise, neuroscience, and digital innovation. 
 
