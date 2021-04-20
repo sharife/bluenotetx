@@ -1,6 +1,6 @@
 ---
 title: People with Cancer Need Mental Health Care, Too
-date: 2021-04-14T18:16:13.422Z
+date: 2021-04-20T17:01:33.780Z
 description: "Nearly all patients living with cancer experience some form of
   cancer-related distress. Yet, less than half are referred to mental health
   specialists. Learn how one patient is inspiring Blue Note as he advocates for
