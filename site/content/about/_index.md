@@ -74,16 +74,21 @@ advisors:
           image: /img/profile-patriciaganz.png
           exlink: https://www.uclahealth.org/patricia-ganz
           researchlink: https://pubmed.ncbi.nlm.nih.gov/?term=ganz+patricia+&filter=dates.1985%2F1%2F1-2020%2F12%2F4
-        - name: Lidia Schapira, MD
-          title: Stanford University Medical Center
-          image: /img/profile-lidiaschapira.png
-          exlink: https://profiles.stanford.edu/lidia-schapira
-          researchlink: https://pubmed.ncbi.nlm.nih.gov/?term=schapira+lidia+&filter=dates.1985%2F1%2F1-2020%2F12%2F4
+        - name: Kevin Knopf, MD
+          title: UCSF Institute for Health Policy
+          image: /img/profile-kevin.png
+          exlink: https://www.linkedin.com/in/drkevinknopf/
+          researchlink: https://pubmed.ncbi.nlm.nih.gov/?term=Knopf+KB+&filter=dates.1985%2F1%2F1-2020%2F12%2F4
         - name: Marcus Neubauer, MD
           title: The US Oncology Network
           image: /img/profile-marcus-neubauer.png
           exlink: https://www.linkedin.com/in/marcus-neubauer-md-967b3878/
           researchlink: https://pubmed.ncbi.nlm.nih.gov/?term=neubauer+marcus+&filter=dates.1985%2F1%2F1-2020%2F12%2F4
+        - name: Lidia Schapira, MD
+          title: Stanford University Medical Center
+          image: /img/profile-lidiaschapira.png
+          exlink: https://profiles.stanford.edu/lidia-schapira
+          researchlink: https://pubmed.ncbi.nlm.nih.gov/?term=schapira+lidia+&filter=dates.1985%2F1%2F1-2020%2F12%2F4
 partners:
   heading: We Can't Do This Alone
   description: Blue Note Therapeutics is honored to work with the National
