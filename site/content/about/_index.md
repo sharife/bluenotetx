@@ -69,6 +69,11 @@ advisors:
           image: /img/profile-mikeantoni.png
           exlink: https://umiamihealth.org/sylvester-comprehensive-cancer-center/research/faculty/michael-antoni-phd
           researchlink: https://pubmed.ncbi.nlm.nih.gov/?term=Antoni+MH&filter=dates.1985%2F1%2F1-2020%2F12%2F4
+        - name: William Breitbart, MD
+          title: Memorial Sloan Kettering Cancer Center
+          image: /img/profile-billbreitbart.png
+          exlink: https://www.mskcc.org/cancer-care/doctors/william-breitbart
+          researchlink: https://pubmed.ncbi.nlm.nih.gov/?cmd=search&term=((neoplasms%5BMH%5D+OR+cancer%5BTW%5D)+OR+sloan-kettering+AND+Breitbart+W)
         - name: Patricia Ganz, MD
           title: UCLA Jonsson Comprehensive Cancer Center
           image: /img/profile-patriciaganz.png
