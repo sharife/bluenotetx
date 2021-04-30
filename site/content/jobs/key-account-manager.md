@@ -1,5 +1,5 @@
 ---
-title: Key Account Manager
+title: Key Account Manager - Western Region
 date: 2021-02-03T18:27:08.150Z
 description: ""
 ---
@@ -7,11 +7,11 @@ description: ""
 
 **Position Summary** 
 
-We have an immediate need for a Key Account Manager.  This is a critical role in the launch of Blue Note Therapeutics's first products and the viability of the business.  The Key Account Manager is accountable for driving unit growth, delivering customer value, relaying customer needs and critique back to Blue Note, and advancing all aspects of the relationship with in-scope accounts.  As customer relationships mature, and as clinical and health economic evidence mounts, the Key Account Manager’s focus will expand from establishing and supporting new accounts to increasing patient volume in existing accounts.
+We have an immediate need for a Key Account Manager focused on Western Region.  This is a critical role in the launch of Blue Note Therapeutics's first products and the viability of the business.  The Key Account Manager is accountable for driving unit growth, delivering customer value, relaying customer needs and critique back to Blue Note, and advancing all aspects of the relationship with in-scope accounts.  As customer relationships mature, and as clinical and health economic evidence mounts, the Key Account Manager’s focus will expand from establishing and supporting new accounts to increasing patient volume in existing accounts.
 
 **Summary of Key Account Manager Responsibilities**
 
-* Delight customers by serving as single point of contact for all customer commercial, reimbursement, technical/training, and other needs
+* Delight Western Region customers by serving as single point of contact for all customer commercial, reimbursement, technical/training, and other needs
 * Create and maintain profitable access in accounts by developing, negotiating, implementing, and servicing contracts with in-scope cancer centers
 * Meet or exceed sales goals through appropriately promoting products to in-account prescribers with compliant clinical, value, and financial information
 * Develop and maintain relationships with decision makers in priority accounts to understand the decision and adoption processes, and to advance Blue Note’s relationships and business opportunities
