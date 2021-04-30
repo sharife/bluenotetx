@@ -12,38 +12,38 @@ people:
     heading: Leadership
     description: 
     items:
-        - name: Geoff Eich
-          title: CEO
-          image: /img/profile-geoff.png
-          link: https://www.linkedin.com/in/geoffreyeich/
-        - name: Rick Lit
-          title: Scientific Operations
-          image: /img/profile-rick.png
-          link: https://www.linkedin.com/in/rick-lit-38287a5/
-        - name: Michael McKinley
-          title: Product Development
-          image: /img/profile-mikemc.png
-          link: https://www.linkedin.com/in/michaelamckinley/
-        - name: Michael Malecki
-          title: Access & Reimbursement
-          image: /img/profile-malecki.png
-          link: https://www.linkedin.com/in/malecki/
-        - name: Mark Elfers
-          title: Finance & Operations
-          image: /img/profile-mark.png
-          link: https://www.linkedin.com/in/markelfers/
         - name: Laura Chavaree
           title: Patient Engagement
           image: /img/profile-laura.png
           link: https://www.linkedin.com/in/lbchavaree/
-        - name: Dianne Shumay, PhD
-          title: Clinical Psycho Oncology
-          image: /img/profile-dianne2.png
-          link: https://www.linkedin.com/in/dianne-shumay-phd-7b802a4/
+        - name: Geoff Eich
+          title: CEO
+          image: /img/profile-geoff.png
+          link: https://www.linkedin.com/in/geoffreyeich/
+        - name: Mark Elfers
+          title: Finance & Operations
+          image: /img/profile-mark.png
+          link: https://www.linkedin.com/in/markelfers/
         - name: Jen Feng
           title: Senior Product Manager
           image: /img/profile-jenfeng.png
           link: https://www.linkedin.com/in/jenfeng/
+        - name: Rick Lit
+          title: Scientific Operations
+          image: /img/profile-rick.png
+          link: https://www.linkedin.com/in/rick-lit-38287a5/
+        - name: Michael Malecki
+          title: Access & Reimbursement
+          image: /img/profile-malecki.png
+          link: https://www.linkedin.com/in/malecki/
+        - name: Michael McKinley
+          title: Product Development
+          image: /img/profile-mikemc.png
+          link: https://www.linkedin.com/in/michaelamckinley/
+        - name: Dianne Shumay, PhD
+          title: Clinical Psycho Oncology
+          image: /img/profile-dianne2.png
+          link: https://www.linkedin.com/in/dianne-shumay-phd-7b802a4/
 board:
     heading: Board of Directors
     description: 
