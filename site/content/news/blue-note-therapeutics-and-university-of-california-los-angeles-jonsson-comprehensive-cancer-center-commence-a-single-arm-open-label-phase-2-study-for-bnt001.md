@@ -2,7 +2,7 @@
 title: "Blue Note Therapeutics and University of California Los Angeles Jonsson
   Comprehensive Cancer Center Commence a Single-Arm Open-Label Phase 2 Study for
   BNT001 "
-date: 2021-05-11T21:17:56.183Z
+date: 2021-05-10T22:45:46.316Z
 description: Blue Note partners with UCLA as company's first PDT candidate
   enters Phase 2 clinical trials.
 ---
