@@ -48,6 +48,10 @@ board:
   heading: Board of Directors
   description: null
   items:
+    - name: Geoff Eich
+      title: Blue Note Therapeutics
+      image: /img/profile-geoff.png
+      link: https://www.linkedin.com/in/geoffreyeich/
     - name: Andrew Firlik, MD
       title: Jazz Venture Partners
       image: /img/profile-andrew.png
@@ -56,10 +60,10 @@ board:
       title: Jazz Venture Partners
       image: /img/profile-john.png
       link: https://www.linkedin.com/in/john-f-harris-56874248/
-    - name: Geoff Eich
-      title: Blue Note Therapeutics
-      image: /img/profile-geoff.png
-      link: https://www.linkedin.com/in/geoffreyeich/
+    - name: Marcus Neubauer, MD
+      title: The US Oncology Network
+      image: /img/profile-marcus-neubauer.png
+      link: https://www.linkedin.com/in/marcus-neubauer-md-967b3878/
 advisors:
   heading: Board of Advisors
   description: null
@@ -84,11 +88,6 @@ advisors:
       image: /img/profile-kevin.png
       exlink: https://www.linkedin.com/in/drkevinknopf/
       researchlink: https://pubmed.ncbi.nlm.nih.gov/?term=Knopf+KB+&filter=dates.1985%2F1%2F1-2020%2F12%2F4
-    - name: Marcus Neubauer, MD
-      title: The US Oncology Network
-      image: /img/profile-marcus-neubauer.png
-      exlink: https://www.linkedin.com/in/marcus-neubauer-md-967b3878/
-      researchlink: https://pubmed.ncbi.nlm.nih.gov/?term=neubauer+marcus+&filter=dates.1985%2F1%2F1-2020%2F12%2F4
     - name: Lidia Schapira, MD
       title: Stanford University Medical Center
       image: /img/profile-lidiaschapira.png
