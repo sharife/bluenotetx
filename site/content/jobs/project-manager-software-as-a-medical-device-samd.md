@@ -1,19 +1,14 @@
 ---
 title: Project Manager, Software as a Medical Device (SaMD)
 date: 2021-05-21T21:04:13.766Z
-description: >-
-  Blue Note Therapeutics is a prescription digital therapeutics company
-  singularly dedicated to transforming mental health care for cancer patients.
-  We aim to make mental health care available to any cancer patient at any time
-  by merging deep scientific and clinical expertise, neuroscience, and digital
-  innovation.  
-
-
-  We have an immediate need for a Project Manager that will assist in the building of an innovative product line of SaMD solutions for cancer patients. You will work with internal executives and product team members across engineering, design, customer success, testing/QA, as well as third-party partners.
-
-
-  This role, the first in-house PM position for our company, will have the opportunity to help mold the PM function within Blue Note Therapeutics. We are looking for someone excited to transform cancer patient care and motivated to work with a company that believes in giving their team ample opportunity to grow professionally.  To apply, please send your resume to us at jobs@bluenotetx.com.
+description: ""
 ---
+Blue Note Therapeutics is a prescription digital therapeutics company singularly dedicated to transforming mental health care for cancer patients. We aim to make mental health care available to any cancer patient at any time by merging deep scientific and clinical expertise, neuroscience, and digital innovation.  
+
+We have an immediate need for a Project Manager that will assist in the building of an innovative product line of SaMD solutions for cancer patients. You will work with internal executives and product team members across engineering, design, customer success, testing/QA, as well as third-party partners.
+
+This role, the first in-house PM position for our company, will have the opportunity to help mold the PM function within Blue Note Therapeutics. We are looking for someone excited to transform cancer patient care and motivated to work with a company that believes in giving their team ample opportunity to grow professionally.  To apply, please send your resume to us at jobs@bluenotetx.com.
+
 **Summary of Key Responsibilities**
 
 * You will be managing projects for multiple products simultaneously.
