@@ -1,19 +1,14 @@
 ---
 title: Regulatory Lead
 date: 2021-05-21T21:17:50.024Z
-description: >-
-  Blue Note Therapeutics is a prescription digital therapeutics company
-  singularly dedicated to transforming mental health care for cancer patients.
-  We aim to make mental health care available to any cancer patient at any time
-  by merging deep scientific and clinical expertise, neuroscience, and digital
-  innovation.  
-
-
-  We have an immediate need for a Regulatory Lead to further build Blue Note’s regulatory affairs function.  This includes defining and implementing the regulatory strategies for the development, submission, clearance/approval, and life cycle management of our portfolio of Prescription Digital Therapeutics (PDT). This role requires someone with regulatory knowledge and experience with class II medical devices; software as a medical device (SaMD) products; and software systems experience is a big plus. 
-
-
-  This role is a combination of both leadership, strategic and execution responsibilities and requires someone who is skilled at strategy development, interactions with Regulatory Agencies as well as writing and filing of pre submission documents, 510Ks / De novo 510ks/ PMAs, and periodic reporting. To apply, please send your resume to us at jobs@bluenotetx.com.
+description: ""
 ---
+Blue Note Therapeutics is a prescription digital therapeutics company singularly dedicated to transforming mental health care for cancer patients. We aim to make mental health care available to any cancer patient at any time by merging deep scientific and clinical expertise, neuroscience, and digital innovation.  
+
+We have an immediate need for a Regulatory Lead to further build Blue Note’s regulatory affairs function.  This includes defining and implementing the regulatory strategies for the development, submission, clearance/approval, and life cycle management of our portfolio of Prescription Digital Therapeutics (PDT). This role requires someone with regulatory knowledge and experience with class II medical devices; software as a medical device (SaMD) products; and software systems experience is a big plus. 
+
+This role is a combination of both leadership, strategic and execution responsibilities and requires someone who is skilled at strategy development, interactions with Regulatory Agencies as well as writing and filing of pre submission documents, 510Ks / De novo 510ks/ PMAs, and periodic reporting. To apply, please send your resume to us at jobs@bluenotetx.com.
+
 **Summary Of Key Responsibilities**
 
 **Health Authority Interactions and Regulatory Authority Intelligence**
