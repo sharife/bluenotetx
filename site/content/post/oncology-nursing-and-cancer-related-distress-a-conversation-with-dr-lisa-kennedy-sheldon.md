@@ -7,7 +7,7 @@ description: "During Oncology Nursing Month, Blue Note Therapeutics had the
   oncology nurse practitioner, cancer care advocate, and former CCO for the
   Oncology Nursing Society. "
 author: Kim King
-image: ""
+image: img/lisa-kennedy-sheldon-photo-2021.png
 ---
 ***Thanks for joining us, Dr. Sheldon! Before we get started, would you share a little bit about your background for our readers? What led you to a career in nursing, and further into the oncology nursing field?***
 
