@@ -1,7 +1,7 @@
 ---
 title: "Oncology Nursing and Cancer-Related Distress: A Conversation with Dr.
   Lisa Kennedy Sheldon"
-date: 2021-05-26T19:24:15.572Z
+date: 2021-05-27T12:57:30.216Z
 description: "During Oncology Nursing Month, Blue Note Therapeutics had the
   opportunity to discuss cancer-related distress with Dr. Lisa Kennedy Sheldon,
   oncology nurse practitioner, cancer care advocate, and former CCO for the
