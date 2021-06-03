@@ -28,6 +28,10 @@ people:
       title: Senior Product Manager
       image: /img/profile-jenfeng.png
       link: https://www.linkedin.com/in/jenfeng/
+    - name: Lindsay Huffman
+      title: Key Account Manager
+      image: /img/profile-lindsay.png
+      link: https://www.linkedin.com/in/lindsay-huffman-0391b923
     - name: Rick Lit
       title: Scientific Operations
       image: /img/profile-rick.png
