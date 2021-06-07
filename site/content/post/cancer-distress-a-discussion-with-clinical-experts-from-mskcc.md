@@ -6,6 +6,7 @@ description: In May, Blue Note Therapeutics was joined by clinical experts from
   Lichtenthal, and Dr. Hayley Pessin, along with our patient advisors Anne Marie
   Mercurio and Michael Mancini to discuss the origins and treatments of
   cancer-related distress.
+author: Mark Elfers
 image: img/expert-panel-image.jpg
 ---
 *This transcript has been edited for clarity and accuracy.*
