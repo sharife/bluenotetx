@@ -1,11 +1,11 @@
 ---
 title: "Cancer & Distress: A Discussion with Clinical Experts from MSKCC"
 date: 2021-06-10T14:35:59.288Z
-description: On May 26, 2021, Mark Elfers of Blue Note Therapeutics was joined
-  by clinical experts from MSKCC Dr. Allison J. Applebaum, Dr. William S.
-  Breitbart, Dr. Wendy Lichtenthal, and Dr. Hayley Pessin, along with our
-  patient advisors Anne Marie Mercurio and Michael Mancini to discuss the
-  origins and treatments of cancer-related distress.
+description: In May, Blue Note Therapeutics was joined by clinical experts from
+  MSKCC Dr. Allison J. Applebaum, Dr. William S. Breitbart, Dr. Wendy
+  Lichtenthal, and Dr. Hayley Pessin, along with our patient advisors Anne Marie
+  Mercurio and Michael Mancini to discuss the origins and treatments of
+  cancer-related distress.
 image: img/expert-panel-image.jpg
 ---
 *This transcript has been edited for clarity and accuracy.*
