@@ -5,7 +5,7 @@ description: "\n"
 ---
 Blue Note Therapeutics is a prescription digital therapeutics company singularly dedicated to transforming mental health care for cancer patients. We aim to make mental health care available to any cancer patient at any time by merging deep scientific and clinical expertise, neuroscience, and digital innovation.  Working closely with leading cancer centers, community oncology and teams of patients, Blue Note is developing clinically validated prescription digital therapeutics to help reduce anxiety, depression and other distress related to cancer.
 
-We have an immediate need on our Product Development Team for our first Technical Architect/Technical Lead to oversee the architectural vision for a suite of technical products and system design using modern technology stacks with a core focus on reusability, scalability and performance to ensure the proper architecture is implemented.  To apply, please introduce yourself to us at jobs@bluenotetx.com.
+We have an immediate need on our Product Development Team for our first Architect/Technical Lead to oversee the architectural vision for a suite of technical products and system design using modern technology stacks with a core focus on reusability, scalability and performance to ensure the proper architecture is implemented.  To apply, please introduce yourself to us at jobs@bluenotetx.com.
 
 **Summary Of Key Responsibilities**
 
@@ -43,16 +43,16 @@ We have an immediate need on our Product Development Team for our first Technica
 **Education and/or Experience** 
 
 * BSc/BA in Computer Science, Engineering or a related field
-* Master’s degree required/preferred
+* Master’s degree preferred
 * 5-7 years of experience designing, building and deploying high-availability backend services in an architect or senior development role
-* 5 (#) or more years in the following required: Node.js, TypeScript/JavaScript
-* 4 (#) or more years in the following required: Cloud Architectures on AWS
-* 4 (#) or more years in the following required: Mobile App development (native or cross-platform) 
-* 1X (#) or more years of experience utilizing the following software development and collaboration tools preferred: in the following JIRA, Slack, TestRail(list any other specific software or specialty skills) preferred
+* 5 or more years in the following required: Node.js, TypeScript/JavaScript
+* 4 or more years in the following required: Cloud Architectures on AWS
+* 4 or more years in the following required: Mobile App development (native or cross-platform) 
+* 1 or more years of experience utilizing the following software development and collaboration tools preferred: JIRA, Slack, TestRail
 
 **Computer Skills**                   
 
-To perform this job successfully, an individual should have knowledge of and experience with Microsoft software applications, Google G Suite applications, internet capabilities, virtual team applications, and fluency of working with data and data analysis. (List any additional software and/or database management/skills not indicated above and label as either required or preferred)
+To perform this job successfully, an individual should have knowledge of and experience with Microsoft software applications, Google G Suite applications, virtual team applications, and fluency of working with data and data analysis. 
 
 **Physical Demands/Work Environment**
 
