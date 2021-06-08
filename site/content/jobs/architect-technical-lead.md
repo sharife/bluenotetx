@@ -5,7 +5,7 @@ description: "\n"
 ---
 Blue Note Therapeutics is a prescription digital therapeutics company singularly dedicated to transforming mental health care for cancer patients. We aim to make mental health care available to any cancer patient at any time by merging deep scientific and clinical expertise, neuroscience, and digital innovation.  Working closely with leading cancer centers, community oncology and teams of patients, Blue Note is developing clinically validated prescription digital therapeutics to help reduce anxiety, depression and other distress related to cancer. For more information, visit us at [www.bluenotetx.com](https://bluenotetherapeutics.com/).
 
-We have an immediate need on our Product Development Team for our first Technical Architect/Technical Lead to oversee the architectural vision for a suite of technical products and system design using modern technology stacks with a core focus on reusability, scalability and performance to ensure the proper architecture is implemented. 
+We have an immediate need on our Product Development Team for our first Technical Architect/Technical Lead to oversee the architectural vision for a suite of technical products and system design using modern technology stacks with a core focus on reusability, scalability and performance to ensure the proper architecture is implemented.  To apply, please introduce yourself to us at jobs@bluenotetx.com.
 
 **Summary Of Key Responsibilities**
 
@@ -65,3 +65,5 @@ While performing the duties of this Job, the employee may be regularly required 
 * Minimum upload speed 5 MB/s, preferred upload speed 25 MB/s
 * Minimum download speed 25 MB/s, preferred download speed 50 MB/s
 * Candidates must provide and meet all technical requirements prior to the first day of work
+
+  To apply, please introduce yourself to us at jobs@bluenotetx.com.  Talk to you soon!
