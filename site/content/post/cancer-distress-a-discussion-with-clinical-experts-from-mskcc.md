@@ -9,6 +9,8 @@ description: In May, Blue Note Therapeutics was joined by clinical experts from
 author: Mark Elfers
 image: img/expert-panel-image.jpg
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uUEAjMGORUA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 *This transcript has been edited for clarity and accuracy.*
 
 **MARK ELFERS: We're going to go ahead and get started. Good morning. My name is Mark Elfers. I'm with Blue Note Therapeutics and we are really grateful for everyone that is joining. We want to give a big thank you to all of the patient advisors who have supported us along the way in this journey. It's only with their help that we'll be successful creating digital therapeutics that do, in fact, ease the signs and symptoms of cancer-related distress. We've got a handful of our patient advisors in the audience and they are going to help us as we go through today. And first, I want to go ahead and introduce our panelists from Memorial Sloan Kettering. We've got a great team here and I'll hand the mic over, first, to Dr. Allison Applebaum.**
