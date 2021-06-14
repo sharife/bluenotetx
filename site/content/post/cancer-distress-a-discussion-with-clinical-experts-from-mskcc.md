@@ -9,7 +9,7 @@ description: In May, Blue Note Therapeutics was joined by clinical experts from
 author: Mark Elfers
 image: img/expert-panel-image.jpg
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uUEAjMGORUA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+View the panel video recording [here](https://youtu.be/uUEAjMGORUA) or read the transcript below. 
 
 *This transcript has been edited for clarity and accuracy.*
 
