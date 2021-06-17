@@ -2,8 +2,8 @@
 title: Blue Note Therapeutics Announces Recruitment for Registrational Clinical
   Trial Studying Effectiveness of Digital Medical Devices in Cancer Patients
 date: 2021-06-17T18:46:03.807Z
-description: "Recruitment commences for registrational clinical trial studying
-  the impact on quality of life of two digital medical devices. "
+description: "Blue Note announces recruitment for a clinical trial of two
+  medical devices for reducing cancer-related distress. "
 ---
 Blue Note Therapeutics has announced recruitment for a registrational clinical trial (RCT) to study the effectiveness of two digital, software only, medical devices (SaMD). Both medical devices are anticipated to have an impact on quality of life and wellbeing when used adjunctively with multidisciplinary oncology care regimens. 
 
