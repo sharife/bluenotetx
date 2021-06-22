@@ -46,7 +46,7 @@ people:
       link: https://www.linkedin.com/in/michaelamckinley/
     - name: George Romanko
       title: Head of HR and Talent
-      image: img/image-2-.png
+      image: img/db4052d5-a01d-48d2-b002-5e11c21a4232_4_5005_c.jpeg
       link: https://www.linkedin.com/in/georgeromanko/
     - name: Dianne Shumay, PhD
       title: Clinical Psycho Oncology
