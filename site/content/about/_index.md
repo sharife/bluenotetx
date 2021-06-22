@@ -44,6 +44,10 @@ people:
       title: Product Development
       image: /img/profile-mikemc.png
       link: https://www.linkedin.com/in/michaelamckinley/
+    - name: George Romanko
+      title: Head of HR and Talent
+      image: img/image-2-.png
+      link: https://www.linkedin.com/in/georgeromanko/
     - name: Dianne Shumay, PhD
       title: Clinical Psycho Oncology
       image: /img/profile-dianne2.png
