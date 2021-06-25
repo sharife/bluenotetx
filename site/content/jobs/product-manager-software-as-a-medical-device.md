@@ -1,5 +1,5 @@
 ---
-title: Product Manager, Software as a Medical Device
+title: Product Manager, Software as a Medical Device (SaMD)
 date: 2021-06-17T12:49:10.780Z
 ---
 Blue Note Therapeutics is a prescription digital therapeutics company singularly dedicated to transforming mental health care for cancer patients. We aim to make mental health care available to any cancer patient at any time by merging deep scientific and clinical expertise, neuroscience, and digital innovation.  Working closely with leading cancer centers, community oncology and teams of patients, Blue Note is developing clinically validated prescription digital therapeutics to help reduce anxiety, depression and other distress related to cancer. For more information, visit us at www.bluenotetx.com.
