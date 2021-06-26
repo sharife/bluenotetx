@@ -44,6 +44,10 @@ people:
       title: Product Development
       image: /img/profile-mikemc.png
       link: https://www.linkedin.com/in/michaelamckinley/
+    - name: Angela Perez
+      title: Key Account Manager
+      link: https://www.linkedin.com/in/angela-perez-9382495/
+      image: img/cb101c3f-1365-46b7-a7ab-f5ba2f66856e_4_5005_c.jpeg
     - name: George Romanko
       title: Head of HR and Talent
       image: img/db4052d5-a01d-48d2-b002-5e11c21a4232_4_5005_c.jpeg
