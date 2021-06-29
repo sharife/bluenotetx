@@ -5,6 +5,7 @@ description: National Cancer Survivor Month is about more than awareness. It’s
   celebration for those who have survived and an inspiration for those recently
   diagnosed. At Blue Note Therapeutics, we understand that every survivorship
   experience is unique.
+image: img/feature-users.png
 ---
 Our patient advisors work closely with us to support our mission. As we celebrate them, we are also honored to be part of their cancer journeys and to share what terms like “survivor” mean in their own words. 
 
