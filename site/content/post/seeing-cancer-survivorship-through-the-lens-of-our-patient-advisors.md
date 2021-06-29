@@ -1,5 +1,5 @@
 ---
-title: Seeing Cancer Survivorship Through the Lens of our Patient Advisors
+title: Seeing Cancer Survivorship through the Lens of Our Patient Advisors
 date: 2021-06-30T21:02:08.938Z
 description: National Cancer Survivor Month is about more than awareness. It’s a
   celebration for those who have survived and an inspiration for those recently
