@@ -8,7 +8,7 @@ description: National Cancer Survivor Month is about more than awareness. It’s
   mission. As we celebrate them, we are also honored to be part of their cancer
   journeys and to share what terms like “survivor” mean in their own words.
 author: Kim King
-image: img/bluenotetherapeutics_patientadvisors-collage.jpg
+image: img/feature-users.png
 ---
 **Does the term survivor resonate with you, why or why not?** 
 
