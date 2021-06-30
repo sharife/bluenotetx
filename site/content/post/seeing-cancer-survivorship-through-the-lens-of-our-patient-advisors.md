@@ -1,13 +1,12 @@
 ---
 title: Seeing Cancer Survivorship through the Lens of Our Patient Advisors
 date: 2021-06-30T21:02:08.938Z
-description: "*National Cancer Survivor Month is about more than awareness. It’s
-  a celebration for those who have survived and an inspiration for those
-  recently diagnosed. At Blue Note Therapeutics, we understand that every
-  survivorship experience is unique. Our patient advisors work closely with us
-  to support our mission. As we celebrate them, we are also honored to be part
-  of their cancer journeys and to share what terms like “survivor” mean in their
-  own words.*"
+description: National Cancer Survivor Month is about more than awareness. It’s a
+  celebration for those who have survived and an inspiration for those recently
+  diagnosed. At Blue Note Therapeutics, we understand that every survivorship
+  experience is unique. Our patient advisors work closely with us to support our
+  mission. As we celebrate them, we are also honored to be part of their cancer
+  journeys and to share what terms like “survivor” mean in their own words.
 author: Kim King
 image: img/feature-users.png
 ---
