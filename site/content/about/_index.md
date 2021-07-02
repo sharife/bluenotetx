@@ -56,6 +56,10 @@ people:
       title: Clinical Psycho Oncology
       image: /img/profile-dianne2.png
       link: https://www.linkedin.com/in/dianne-shumay-phd-7b802a4/
+    - name: Kevin Wyllie
+      title: Quality Assurance Engineer
+      image: img/36c82b2f-210a-41c9-967a-8e2a6f35a42e.png
+      link: https://www.linkedin.com/in/wyllie-kevin/
 board:
   heading: Board of Directors
   description: null
