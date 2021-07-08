@@ -10,7 +10,7 @@ description: >
 author: Mark Elfers
 image: img/blog-panel.png
 ---
-View the panel video recording <a href="https://youtu.be/E6LxpLOfPbc" target="_blank">here</a> or read the transcript below.
+View the panel video recording [here] (https://youtu.be/E6LxpLOfPbc) or read the transcript below.
 
 *This transcript has been edited for clarity and accuracy.* 
 
